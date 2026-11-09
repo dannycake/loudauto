@@ -1,0 +1,1035 @@
+{
+ "data": {
+  "albumUnion": {
+   "__typename": "Album",
+   "copyright": {
+    "items": [
+     {
+      "text": "2025 deadAir",
+      "type": "P"
+     }
+    ],
+    "totalCount": 1
+   },
+   "courtesyLine": "",
+   "date": {
+    "isoString": "2025-04-04T00:00:00Z",
+    "precision": "DAY"
+   },
+   "isPreRelease": false,
+   "label": "deadAir",
+   "name": "Revengeseekerz",
+   "playability": {
+    "playable": true,
+    "reason": "PLAYABLE"
+   },
+   "preReleaseEndDateTime": null,
+   "saved": false,
+   "tracksV2": {
+    "items": [
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 239161
+       },
+       "mediaType": "AUDIO",
+       "name": "TWICE REMOVED",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "3797138",
+       "relinkingInformation": null,
+       "saved": false,
+       "trackNumber": 1,
+       "uri": "spotify:track:6cMaeMxUUtPGZri4qPSQ5Y"
+      },
+      "uid": "15c2b07abdb6df778781"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         },
+         {
+          "profile": {
+           "name": "Danny Brown"
+          },
+          "uri": "spotify:artist:7aA592KWirLsnfb5ulGWvU"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 244844
+       },
+       "mediaType": "AUDIO",
+       "name": "Psychoboost",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "8290329",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 2,
+       "uri": "spotify:track:7BMSBNctr9IPelr6MFvuRL"
+      },
+      "uid": "003f8c85721526aaec71"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 259139
+       },
+       "mediaType": "AUDIO",
+       "name": "Star people",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "5294167",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 3,
+       "uri": "spotify:track:44Obh48yje3RZvWtYc4OpJ"
+      },
+      "uid": "cf4c09355f2cc548ba30"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 300445
+       },
+       "mediaType": "AUDIO",
+       "name": "Experimental Skin",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "4912655",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 4,
+       "uri": "spotify:track:5pt8I0fp9O0nhdIs3GgEBo"
+      },
+      "uid": "269ab4cc26d8ddfe7132"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 221544
+       },
+       "mediaType": "AUDIO",
+       "name": "angels in camo",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "5869976",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 5,
+       "uri": "spotify:track:7a4dV5aM4pHsTdOkqIVK8l"
+      },
+      "uid": "fb0f4ccbb298d4952383"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 224486
+       },
+       "mediaType": "AUDIO",
+       "name": "Dreamflasher",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "9809846",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 6,
+       "uri": "spotify:track:75Wgg4LerPD3mVO5hEyUN9"
+      },
+      "uid": "af77d282105c82168444"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 281713
+       },
+       "mediaType": "AUDIO",
+       "name": "TURN UP OR DIE",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "5277005",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 7,
+       "uri": "spotify:track:2WlpEpIyQWh9xvLY598sZk"
+      },
+      "uid": "87b41fc09c912e17b304"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 230526
+       },
+       "mediaType": "AUDIO",
+       "name": "Dancing with your eyes closed",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "24208579",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 8,
+       "uri": "spotify:track:1XD4K4CGAKTIBmFpvuaFru"
+      },
+      "uid": "92fd7d16521ebf3eb264"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 200571
+       },
+       "mediaType": "AUDIO",
+       "name": "Fadeoutz",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "3717731",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 9,
+       "uri": "spotify:track:5XNf2R7PzOkaBKeaBUREJS"
+      },
+      "uid": "1f13fef8d4adbcf9ddb9"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 236571
+       },
+       "mediaType": "AUDIO",
+       "name": "Professional Vengeance",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "9754634",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 10,
+       "uri": "spotify:track:2AjTT2CBthpsIQtyxzhSr4"
+      },
+      "uid": "8d6b9a5a5c3bc1e866b4"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "NONE"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 258920
+       },
+       "mediaType": "AUDIO",
+       "name": "Dark night castle",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "1980458",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 11,
+       "uri": "spotify:track:3d3v3dstj9yP3XmjY22Fdl"
+      },
+      "uid": "756ee9265c05da6e4040"
+     },
+     {
+      "track": {
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "totalCount": 0
+        },
+        "videoAssociations": {
+         "totalCount": 0
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "discNumber": 1,
+       "duration": {
+        "totalMilliseconds": 268803
+       },
+       "mediaType": "AUDIO",
+       "name": "JRJRJR",
+       "playability": {
+        "playable": true
+       },
+       "playcount": "8602939",
+       "relinkingInformation": null,
+       "saved": true,
+       "trackNumber": 12,
+       "uri": "spotify:track:29M6802gdnONhtdsjPdtv9"
+      },
+      "uid": "6f82a0ff21f4ec0c404e"
+     }
+    ],
+    "totalCount": 12
+   },
+   "type": "ALBUM",
+   "uri": "spotify:album:21b4cDNse2AMpj94ykfuON",
+   "visualIdentity": {
+    "squareCoverImage": {
+     "__typename": "VisualIdentityImage",
+     "extractedColorSet": {
+      "encoreBaseSetTextColor": {
+       "alpha": 255,
+       "blue": 115,
+       "green": 165,
+       "red": 255
+      },
+      "highContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 58,
+        "red": 137
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 23,
+        "red": 93
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 152,
+        "green": 192,
+        "red": 255
+       }
+      },
+      "higherContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 25,
+        "red": 96
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 40,
+        "green": 63,
+        "red": 137
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 96,
+        "green": 215,
+        "red": 30
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 152,
+        "green": 192,
+        "red": 255
+       }
+      },
+      "minContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 64,
+        "red": 144
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 31,
+        "red": 103
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       }
+      }
+     }
+    }
+   },
+   "watchFeedEntrypoint": null,
+   "artists": {
+    "items": [
+     {
+      "id": "2rLGlNI6htigNxx172qxLu",
+      "profile": {
+       "name": "Jane Remover"
+      },
+      "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu",
+      "visuals": {
+       "avatarImage": {
+        "sources": [
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb3ba80684c90081ad8c0b7f2",
+          "width": 640
+         },
+         {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b3ba80684c90081ad8c0b7f2",
+          "width": 160
+         },
+         {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b3ba80684c90081ad8c0b7f2",
+          "width": 320
+         }
+        ]
+       }
+      }
+     }
+    ],
+    "totalCount": 1
+   },
+   "coverArt": {
+    "sources": [
+     {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab0d83b752dcf9f2a7ddd51b",
+      "width": 300
+     },
+     {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ab0d83b752dcf9f2a7ddd51b",
+      "width": 64
+     },
+     {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+      "width": 640
+     }
+    ]
+   },
+   "discs": {
+    "items": [
+     {
+      "number": 1,
+      "tracks": {
+       "totalCount": 12
+      }
+     }
+    ],
+    "totalCount": 1
+   },
+   "releases": {
+    "items": [],
+    "totalCount": 0
+   },
+   "moreAlbumsByArtist": {
+    "items": [
+     {
+      "discography": {
+       "popularReleasesAlbums": {
+        "items": [
+         {
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02ab0d83b752dcf9f2a7ddd51b",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851ab0d83b752dcf9f2a7ddd51b",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2025
+          },
+          "id": "21b4cDNse2AMpj94ykfuON",
+          "name": "Revengeseekerz",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:21b4cDNse2AMpj94ykfuON"
+         },
+         {
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e0256818098087e597b8b8095b4",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d0000485156818098087e597b8b8095b4",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b27356818098087e597b8b8095b4",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2025
+          },
+          "id": "2XeflvA0dNvjpX0vxukgiv",
+          "name": "♡",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "type": "EP",
+          "uri": "spotify:album:2XeflvA0dNvjpX0vxukgiv"
+         },
+         {
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e0225920ac69f3ad8a4b6065167",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d0000485125920ac69f3ad8a4b6065167",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b27325920ac69f3ad8a4b6065167",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2026
+          },
+          "id": "3xI4q1yRS4Vr1wMkQxlQjj",
+          "name": "Beauty Sleep",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:3xI4q1yRS4Vr1wMkQxlQjj"
+         },
+         {
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02357b1f848cf2a05d21e77db4",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851357b1f848cf2a05d21e77db4",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273357b1f848cf2a05d21e77db4",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2021
+          },
+          "id": "6rO7DlLYSHabzSsD7Gpe14",
+          "name": "Frailty",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:6rO7DlLYSHabzSsD7Gpe14"
+         },
+         {
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e028a821784ac3e69e691d4945f",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048518a821784ac3e69e691d4945f",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2738a821784ac3e69e691d4945f",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2023
+          },
+          "id": "0rsCXQ9QyrLaTc2a5fvsZR",
+          "name": "Census Designated",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:0rsCXQ9QyrLaTc2a5fvsZR"
+         },
+         {
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02ec5cfc4fb335e54f5875cbac",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851ec5cfc4fb335e54f5875cbac",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273ec5cfc4fb335e54f5875cbac",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2021
+          },
+          "id": "2zaNeL1xFEOp7on5ZJXJSA",
+          "name": "Teen Week",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "type": "EP",
+          "uri": "spotify:album:2zaNeL1xFEOp7on5ZJXJSA"
+         },
+         {
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e023fef2e114942130c338a1feb",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048513fef2e114942130c338a1feb",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2733fef2e114942130c338a1feb",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2026
+          },
+          "id": "60ckaaEodEQbB84qAHiUmI",
+          "name": "suave (feat. Jane Remover)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:60ckaaEodEQbB84qAHiUmI"
+         },
+         {
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e025152a6138098d3866856c8d6",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048515152a6138098d3866856c8d6",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2735152a6138098d3866856c8d6",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2026
+          },
+          "id": "75NdgsYSy03OeRKbRRVmPb",
+          "name": "Music Baby (leroy Remix)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:75NdgsYSy03OeRKbRRVmPb"
+         },
+         {
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02243bbde76b4e21dfc2a6200b",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851243bbde76b4e21dfc2a6200b",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273243bbde76b4e21dfc2a6200b",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2025
+          },
+          "id": "7qwKXu7ddq2wAIeyZFeQLd",
+          "name": "Dreamflasher",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:7qwKXu7ddq2wAIeyZFeQLd"
+         },
+         {
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e022234da979fd86b6dfdbfcfc5",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048512234da979fd86b6dfdbfcfc5",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2732234da979fd86b6dfdbfcfc5",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2025
+          },
+          "id": "7KEc7xSd2Iy00kejA9nGPV",
+          "name": "Supernova",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:7KEc7xSd2Iy00kejA9nGPV"
+         }
+        ]
+       }
+      }
+     }
+    ]
+   }
+  },
+  "meV2": {
+   "ianaTimezoneId": "America/New_York"
+  }
+ }
+}

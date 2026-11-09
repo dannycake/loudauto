@@ -1,0 +1,37 @@
+[package]
+name = "app"
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+description = "LOUDAUTO's window (loudauto): the egui client of the engine"
+
+[[bin]]
+name = "loudauto"
+path = "src/main.rs"
+
+[dependencies]
+eframe.workspace = true
+engine-ipc.workspace = true
+env_logger.workspace = true
+# The window's icon: LOUDAUTO's icon from the active icon theme, as the engine's tray.
+icon-theme.workspace = true
+# Cover art: decoded off the UI thread, fetched by plain worker threads.
+image.workspace = true
+log.workspace = true
+lru.workspace = true
+# The player's state as the engine reports it (`PlayStatus`, `Repeat`).
+playback.workspace = true
+reqwest = { workspace = true, features = ["blocking"] }
+serde.workspace = true
+serde_json.workspace = true
+# The cover art cache's file names.
+sha2.workspace = true
+skrifa.workspace = true
+# The rootlist's entries (`RootEntry`), drawn in the sidebar.
+spot-core.workspace = true
+tokio.workspace = true
+
+[dev-dependencies]
+egui_kittest.workspace = true
+tempfile.workspace = true

@@ -1,0 +1,13 @@
+/target/
+.codegraph/
+.playwright-mcp/
+.env
+*.local.toml
+# Soloist binaries must never be committed or redistributed (Spotify's terms)
+soloist
+soloist_release_*
+# ...but a source directory named soloist/ is fine.
+!soloist/
+# Local working notes (plans, specs, agent workspaces); not published.
+/docs/superpowers/
+/.superpowers/

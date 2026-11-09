@@ -1,0 +1,10 @@
+[Unit]
+Description=Check weekly for a newer Soloist build (builds expire 90 days after release)
+
+[Timer]
+OnCalendar=weekly
+RandomizedDelaySec=12h
+Persistent=true
+
+[Install]
+WantedBy=timers.target

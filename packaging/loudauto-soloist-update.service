@@ -1,0 +1,7 @@
+[Unit]
+Description=Fetch Spotify's newest Soloist build for LOUDAUTO when there is one
+Documentation=https://developer.spotify.com/documentation/soloist/reference/downloads-and-updates
+
+[Service]
+Type=oneshot
+ExecStart=%h/.local/bin/loudauto-update-soloist

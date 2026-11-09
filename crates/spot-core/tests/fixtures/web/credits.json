@@ -1,0 +1,52 @@
+{
+ "trackUri": "spotify:track:1XD4K4CGAKTIBmFpvuaFru",
+ "trackTitle": "Dancing with your eyes closed",
+ "roleCredits": [
+  {
+   "roleTitle": "Performers",
+   "artists": [
+    {
+     "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu",
+     "name": "Jane Remover",
+     "imageUri": "https://i.scdn.co/image/ab677762000078e6aae517f57fa4e9833b4bce9c",
+     "subroles": [
+      "main artist"
+     ],
+     "weight": 3.0
+    }
+   ]
+  },
+  {
+   "roleTitle": "Writers",
+   "artists": [
+    {
+     "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu",
+     "name": "Jane Remover",
+     "imageUri": "https://i.scdn.co/image/ab677762000078e6aae517f57fa4e9833b4bce9c",
+     "subroles": [
+      "writer"
+     ],
+     "weight": 2.0
+    }
+   ]
+  },
+  {
+   "roleTitle": "Producers",
+   "artists": [
+    {
+     "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu",
+     "name": "Jane Remover",
+     "imageUri": "https://i.scdn.co/image/ab677762000078e6aae517f57fa4e9833b4bce9c",
+     "subroles": [
+      "producer"
+     ],
+     "weight": 1.0
+    }
+   ]
+  }
+ ],
+ "extendedCredits": [],
+ "sourceNames": [
+  "deadAir"
+ ]
+}

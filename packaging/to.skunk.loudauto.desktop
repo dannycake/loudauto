@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=LOUDAUTO
+Exec=loudauto
+Icon=spotify-launcher
+StartupWMClass=to.skunk.loudauto
+Categories=AudioVideo;Audio;Player;
+StartupNotify=true

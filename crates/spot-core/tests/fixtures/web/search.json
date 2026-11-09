@@ -1,0 +1,1961 @@
+{
+ "data": {
+  "searchV2": {
+   "albumsV2": {
+    "__typename": "AlbumOrPrereleasePage",
+    "items": [
+     {
+      "__typename": "AlbumResponseWrapper",
+      "data": {
+       "__typename": "Album",
+       "artists": {
+        "items": [
+         {
+          "onPlatformReputationTrait": {
+           "verification": {
+            "aiPersona": null
+           }
+          },
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ab0d83b752dcf9f2a7ddd51b",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ab0d83b752dcf9f2a7ddd51b",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "year": 2025
+       },
+       "isAlbumPreRelease": false,
+       "name": "Revengeseekerz",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "preReleaseEndDateTime": null,
+       "type": "ALBUM",
+       "uri": "spotify:album:21b4cDNse2AMpj94ykfuON",
+       "visualIdentity": {
+        "squareCoverImage": {
+         "__typename": "VisualIdentityImage",
+         "extractedColorSet": {
+          "encoreBaseSetTextColor": {
+           "alpha": 255,
+           "blue": 115,
+           "green": 165,
+           "red": 255
+          },
+          "highContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 0,
+            "green": 58,
+            "red": 137
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 0,
+            "green": 23,
+            "red": 93
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 152,
+            "green": 192,
+            "red": 255
+           }
+          },
+          "higherContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 0,
+            "green": 25,
+            "red": 96
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 40,
+            "green": 63,
+            "red": 137
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 215,
+            "red": 30
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 152,
+            "green": 192,
+            "red": 255
+           }
+          },
+          "minContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 0,
+            "green": 64,
+            "red": 144
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 0,
+            "green": 31,
+            "red": 103
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           }
+          }
+         }
+        }
+       }
+      }
+     },
+     {
+      "__typename": "AlbumResponseWrapper",
+      "data": {
+       "__typename": "Album",
+       "artists": {
+        "items": [
+         {
+          "onPlatformReputationTrait": {
+           "verification": {
+            "aiPersona": null
+           }
+          },
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0256818098087e597b8b8095b4",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485156818098087e597b8b8095b4",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27356818098087e597b8b8095b4",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "year": 2025
+       },
+       "isAlbumPreRelease": false,
+       "name": "♡",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "preReleaseEndDateTime": null,
+       "type": "EP",
+       "uri": "spotify:album:2XeflvA0dNvjpX0vxukgiv",
+       "visualIdentity": {
+        "squareCoverImage": {
+         "__typename": "VisualIdentityImage",
+         "extractedColorSet": {
+          "encoreBaseSetTextColor": {
+           "alpha": 255,
+           "blue": 231,
+           "green": 190,
+           "red": 154
+          },
+          "highContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 72,
+            "green": 40,
+            "red": 8
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 115,
+            "green": 80,
+            "red": 48
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 250,
+            "green": 209,
+            "red": 173
+           }
+          },
+          "higherContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 72,
+            "green": 40,
+            "red": 8
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 115,
+            "green": 80,
+            "red": 48
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 215,
+            "red": 30
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 250,
+            "green": 209,
+            "red": 173
+           }
+          },
+          "minContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 72,
+            "green": 40,
+            "red": 8
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 115,
+            "green": 80,
+            "red": 48
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           }
+          }
+         }
+        }
+       }
+      }
+     },
+     {
+      "__typename": "AlbumResponseWrapper",
+      "data": {
+       "__typename": "Album",
+       "artists": {
+        "items": [
+         {
+          "onPlatformReputationTrait": {
+           "verification": {
+            "aiPersona": null
+           }
+          },
+          "profile": {
+           "name": "Jane Remover"
+          },
+          "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028a821784ac3e69e691d4945f",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518a821784ac3e69e691d4945f",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738a821784ac3e69e691d4945f",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "year": 2023
+       },
+       "isAlbumPreRelease": false,
+       "name": "Census Designated",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "preReleaseEndDateTime": null,
+       "type": "ALBUM",
+       "uri": "spotify:album:0rsCXQ9QyrLaTc2a5fvsZR",
+       "visualIdentity": {
+        "squareCoverImage": {
+         "__typename": "VisualIdentityImage",
+         "extractedColorSet": {
+          "encoreBaseSetTextColor": {
+           "alpha": 255,
+           "blue": 203,
+           "green": 187,
+           "red": 179
+          },
+          "highContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 98,
+            "green": 83,
+            "red": 76
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 64,
+            "green": 51,
+            "red": 45
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 222,
+            "green": 206,
+            "red": 197
+           }
+          },
+          "higherContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 66,
+            "green": 53,
+            "red": 47
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 100,
+            "green": 86,
+            "red": 79
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 215,
+            "red": 30
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 222,
+            "green": 206,
+            "red": 197
+           }
+          },
+          "minContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 169,
+            "green": 153,
+            "red": 145
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 144,
+            "green": 129,
+            "red": 121
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    ],
+    "totalCount": 124
+   },
+   "artists": {
+    "items": [
+     {
+      "__typename": "ArtistResponseWrapper",
+      "data": {
+       "__typename": "Artist",
+       "onPlatformReputationTrait": {
+        "verification": {
+         "aiPersona": null,
+         "isVerified": true
+        }
+       },
+       "profile": {
+        "name": "Jane Remover"
+       },
+       "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu",
+       "visualIdentity": {
+        "squareCoverImage": {
+         "__typename": "VisualIdentityImage",
+         "extractedColorSet": {
+          "encoreBaseSetTextColor": {
+           "alpha": 255,
+           "blue": 114,
+           "green": 165,
+           "red": 255
+          },
+          "highContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 0,
+            "green": 46,
+            "red": 146
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 0,
+            "green": 5,
+            "red": 97
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 155,
+            "green": 192,
+            "red": 255
+           }
+          },
+          "higherContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 0,
+            "green": 6,
+            "red": 101
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 41,
+            "green": 54,
+            "red": 146
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 215,
+            "red": 30
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 155,
+            "green": 192,
+            "red": 255
+           }
+          },
+          "minContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 8,
+            "green": 80,
+            "red": 184
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 0,
+            "green": 48,
+            "red": 150
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           }
+          }
+         }
+        }
+       },
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebb3ba80684c90081ad8c0b7f2",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178b3ba80684c90081ad8c0b7f2",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174b3ba80684c90081ad8c0b7f2",
+           "width": 320
+          }
+         ]
+        }
+       }
+      }
+     },
+     {
+      "__typename": "ArtistResponseWrapper",
+      "data": {
+       "__typename": "Artist",
+       "onPlatformReputationTrait": {
+        "verification": {
+         "aiPersona": null,
+         "isVerified": true
+        }
+       },
+       "profile": {
+        "name": "venturing"
+       },
+       "uri": "spotify:artist:13xKCVJaX32BL7EN9IOiCM",
+       "visualIdentity": {
+        "squareCoverImage": {
+         "__typename": "VisualIdentityImage",
+         "extractedColorSet": {
+          "encoreBaseSetTextColor": {
+           "alpha": 255,
+           "blue": 149,
+           "green": 185,
+           "red": 203
+          },
+          "highContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 40,
+            "green": 72,
+            "red": 88
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 1,
+            "green": 34,
+            "red": 49
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 167,
+            "green": 203,
+            "red": 222
+           }
+          },
+          "higherContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 18,
+            "green": 51,
+            "red": 66
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 52,
+            "green": 84,
+            "red": 100
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 215,
+            "red": 30
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 167,
+            "green": 203,
+            "red": 222
+           }
+          },
+          "minContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 40,
+            "green": 72,
+            "red": 88
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 1,
+            "green": 34,
+            "red": 49
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           }
+          }
+         }
+        }
+       },
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb02bddbeab89ceee7f1874b81",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f17802bddbeab89ceee7f1874b81",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab6761610000517402bddbeab89ceee7f1874b81",
+           "width": 320
+          }
+         ]
+        }
+       }
+      }
+     },
+     {
+      "__typename": "ArtistResponseWrapper",
+      "data": {
+       "__typename": "Artist",
+       "onPlatformReputationTrait": {
+        "verification": {
+         "aiPersona": null,
+         "isVerified": true
+        }
+       },
+       "profile": {
+        "name": "2hollis"
+       },
+       "uri": "spotify:artist:72NhFAGG5Pt91VbheJeEPG",
+       "visualIdentity": {
+        "squareCoverImage": {
+         "__typename": "VisualIdentityImage",
+         "extractedColorSet": {
+          "encoreBaseSetTextColor": {
+           "alpha": 255,
+           "blue": 210,
+           "green": 189,
+           "red": 169
+          },
+          "highContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 56,
+            "green": 40,
+            "red": 24
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 97,
+            "green": 79,
+            "red": 62
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 229,
+            "green": 208,
+            "red": 187
+           }
+          },
+          "higherContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 56,
+            "green": 40,
+            "red": 24
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 97,
+            "green": 79,
+            "red": 62
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 215,
+            "red": 30
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 229,
+            "green": 208,
+            "red": 187
+           }
+          },
+          "minContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 56,
+            "green": 40,
+            "red": 24
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 97,
+            "green": 79,
+            "red": 62
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           }
+          }
+         }
+        }
+       },
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebfa8e5370cae3d2cfba098c87",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178fa8e5370cae3d2cfba098c87",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174fa8e5370cae3d2cfba098c87",
+           "width": 320
+          }
+         ]
+        }
+       }
+      }
+     }
+    ],
+    "totalCount": 108
+   },
+   "chipOrder": {
+    "items": [
+     {
+      "typeName": "ARTISTS"
+     },
+     {
+      "typeName": "TRACKS"
+     },
+     {
+      "typeName": "VIDEOS"
+     },
+     {
+      "typeName": "PLAYLISTS"
+     },
+     {
+      "typeName": "ALBUMS"
+     },
+     {
+      "typeName": "EPISODES"
+     },
+     {
+      "typeName": "USERS"
+     },
+     {
+      "typeName": "GENRES"
+     },
+     {
+      "typeName": "PODCASTS"
+     }
+    ]
+   },
+   "playlists": {
+    "items": [
+     {
+      "__typename": "PlaylistResponseWrapper",
+      "data": {
+       "__typename": "Playlist",
+       "attributes": [],
+       "description": "",
+       "format": "",
+       "images": {
+        "items": [
+         {
+          "sources": [
+           {
+            "height": null,
+            "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84b700674c70e11da6835f3987",
+            "width": null
+           }
+          ]
+         }
+        ]
+       },
+       "name": "jane remover, underscores, ninajirachi, frost children typa shi",
+       "ownerV2": {
+        "data": {
+         "name": "owner",
+         "uri": "spotify:user:owner"
+        }
+       },
+       "uri": "spotify:playlist:1kYoHsrvofAvYCO3KAiG2U",
+       "visualIdentity": {
+        "squareCoverImage": {
+         "__typename": "VisualIdentityImage",
+         "extractedColorSet": {
+          "encoreBaseSetTextColor": {
+           "alpha": 255,
+           "blue": 200,
+           "green": 200,
+           "red": 200
+          },
+          "highContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 83,
+            "green": 83,
+            "red": 83
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 51,
+            "green": 51,
+            "red": 51
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 205,
+            "green": 205,
+            "red": 205
+           }
+          },
+          "higherContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 53,
+            "green": 53,
+            "red": 53
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 86,
+            "green": 86,
+            "red": 86
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 215,
+            "red": 30
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 205,
+            "green": 205,
+            "red": 205
+           }
+          },
+          "minContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 153,
+            "green": 153,
+            "red": 153
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 128,
+            "green": 128,
+            "red": 128
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           }
+          }
+         }
+        }
+       }
+      }
+     },
+     {
+      "__typename": "PlaylistResponseWrapper",
+      "data": {
+       "__typename": "Playlist",
+       "attributes": [],
+       "description": "June 4th - October 9. Setlist from October 9, San Diego Show. (Unreleased: Star People^2ler remix&#x2F;Push)",
+       "format": "",
+       "images": {
+        "items": [
+         {
+          "sources": [
+           {
+            "height": null,
+            "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da848987bd3b259cb1f35ef88635",
+            "width": null
+           }
+          ]
+         }
+        ]
+       },
+       "name": "Jane Remover - Live Exhibit Tour setlist ",
+       "ownerV2": {
+        "data": {
+         "name": "owner",
+         "uri": "spotify:user:owner"
+        }
+       },
+       "uri": "spotify:playlist:03i9dgYgj5HsQk4ln1mhTL",
+       "visualIdentity": {
+        "squareCoverImage": {
+         "__typename": "VisualIdentityImage",
+         "extractedColorSet": {
+          "encoreBaseSetTextColor": {
+           "alpha": 255,
+           "blue": 169,
+           "green": 160,
+           "red": 255
+          },
+          "highContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 58,
+            "green": 38,
+            "red": 149
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 21,
+            "green": 0,
+            "red": 97
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 193,
+            "green": 188,
+            "red": 255
+           }
+          },
+          "higherContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 23,
+            "green": 0,
+            "red": 101
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 59,
+            "green": 51,
+            "red": 147
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 215,
+            "red": 30
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 193,
+            "green": 188,
+            "red": 255
+           }
+          },
+          "minContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 80,
+            "green": 64,
+            "red": 176
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 50,
+            "green": 27,
+            "red": 139
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           }
+          }
+         }
+        }
+       }
+      }
+     },
+     {
+      "__typename": "PlaylistResponseWrapper",
+      "data": {
+       "__typename": "Playlist",
+       "attributes": [],
+       "description": "I’m so excited I’m gonna die",
+       "format": "",
+       "images": {
+        "items": [
+         {
+          "sources": [
+           {
+            "height": null,
+            "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84442f7cd6526da8022ba52c8c",
+            "width": null
+           }
+          ]
+         }
+        ]
+       },
+       "name": "JANE REMOVER SETLIST 2026",
+       "ownerV2": {
+        "data": {
+         "name": "owner",
+         "uri": "spotify:user:owner"
+        }
+       },
+       "uri": "spotify:playlist:31o3SEGd2jGClWn8acKcdv",
+       "visualIdentity": {
+        "squareCoverImage": {
+         "__typename": "VisualIdentityImage",
+         "extractedColorSet": {
+          "encoreBaseSetTextColor": {
+           "alpha": 255,
+           "blue": 173,
+           "green": 190,
+           "red": 181
+          },
+          "highContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 71,
+            "green": 86,
+            "red": 78
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 39,
+            "green": 53,
+            "red": 46
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 191,
+            "green": 208,
+            "red": 200
+           }
+          },
+          "higherContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 41,
+            "green": 55,
+            "red": 49
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 73,
+            "green": 88,
+            "red": 81
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 215,
+            "red": 30
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 191,
+            "green": 208,
+            "red": 200
+           }
+          },
+          "minContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 112,
+            "green": 128,
+            "red": 120
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 86,
+            "green": 101,
+            "red": 94
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    ],
+    "totalCount": 197
+   },
+   "tracksV2": {
+    "items": [
+     {
+      "item": {
+       "__typename": "TrackResponseWrapper",
+       "data": {
+        "__typename": "Track",
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0256818098087e597b8b8095b4",
+            "width": 300
+           },
+           {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485156818098087e597b8b8095b4",
+            "width": 64
+           },
+           {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27356818098087e597b8b8095b4",
+            "width": 640
+           }
+          ]
+         },
+         "id": "2XeflvA0dNvjpX0vxukgiv",
+         "name": "♡",
+         "uri": "spotify:album:2XeflvA0dNvjpX0vxukgiv",
+         "visualIdentity": {
+          "squareCoverImage": {
+           "__typename": "VisualIdentityImage",
+           "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+             "alpha": 255,
+             "blue": 231,
+             "green": 190,
+             "red": 154
+            },
+            "highContrast": {
+             "backgroundBase": {
+              "alpha": 255,
+              "blue": 72,
+              "green": 40,
+              "red": 8
+             },
+             "backgroundTintedBase": {
+              "alpha": 255,
+              "blue": 115,
+              "green": 80,
+              "red": 48
+             },
+             "textBase": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textBrightAccent": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textSubdued": {
+              "alpha": 255,
+              "blue": 250,
+              "green": 209,
+              "red": 173
+             }
+            },
+            "higherContrast": {
+             "backgroundBase": {
+              "alpha": 255,
+              "blue": 72,
+              "green": 40,
+              "red": 8
+             },
+             "backgroundTintedBase": {
+              "alpha": 255,
+              "blue": 115,
+              "green": 80,
+              "red": 48
+             },
+             "textBase": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textBrightAccent": {
+              "alpha": 255,
+              "blue": 96,
+              "green": 215,
+              "red": 30
+             },
+             "textSubdued": {
+              "alpha": 255,
+              "blue": 250,
+              "green": 209,
+              "red": 173
+             }
+            },
+            "minContrast": {
+             "backgroundBase": {
+              "alpha": 255,
+              "blue": 72,
+              "green": 40,
+              "red": 8
+             },
+             "backgroundTintedBase": {
+              "alpha": 255,
+              "blue": 115,
+              "green": 80,
+              "red": 48
+             },
+             "textBase": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textBrightAccent": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textSubdued": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             }
+            }
+           }
+          }
+         }
+        },
+        "artists": {
+         "items": [
+          {
+           "onPlatformReputationTrait": {
+            "verification": {
+             "aiPersona": null
+            }
+           },
+           "profile": {
+            "name": "Jane Remover"
+           },
+           "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+          }
+         ]
+        },
+        "associationsV3": {
+         "audioAssociations": {
+          "totalCount": 0
+         },
+         "videoAssociations": {
+          "totalCount": 0
+         }
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "duration": {
+         "totalMilliseconds": 273285
+        },
+        "id": "5BUTPG0Csnl1fF5RFg5lUH",
+        "trackMediaType": "AUDIO",
+        "name": "How to Teleport",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "uri": "spotify:track:5BUTPG0Csnl1fF5RFg5lUH",
+        "visualIdentity": {
+         "sixteenByNineCoverImage": null
+        }
+       }
+      },
+      "matchedFields": []
+     },
+     {
+      "item": {
+       "__typename": "TrackResponseWrapper",
+       "data": {
+        "__typename": "Track",
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab0d83b752dcf9f2a7ddd51b",
+            "width": 300
+           },
+           {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ab0d83b752dcf9f2a7ddd51b",
+            "width": 64
+           },
+           {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+            "width": 640
+           }
+          ]
+         },
+         "id": "21b4cDNse2AMpj94ykfuON",
+         "name": "Revengeseekerz",
+         "uri": "spotify:album:21b4cDNse2AMpj94ykfuON",
+         "visualIdentity": {
+          "squareCoverImage": {
+           "__typename": "VisualIdentityImage",
+           "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+             "alpha": 255,
+             "blue": 115,
+             "green": 165,
+             "red": 255
+            },
+            "highContrast": {
+             "backgroundBase": {
+              "alpha": 255,
+              "blue": 0,
+              "green": 58,
+              "red": 137
+             },
+             "backgroundTintedBase": {
+              "alpha": 255,
+              "blue": 0,
+              "green": 23,
+              "red": 93
+             },
+             "textBase": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textBrightAccent": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textSubdued": {
+              "alpha": 255,
+              "blue": 152,
+              "green": 192,
+              "red": 255
+             }
+            },
+            "higherContrast": {
+             "backgroundBase": {
+              "alpha": 255,
+              "blue": 0,
+              "green": 25,
+              "red": 96
+             },
+             "backgroundTintedBase": {
+              "alpha": 255,
+              "blue": 40,
+              "green": 63,
+              "red": 137
+             },
+             "textBase": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textBrightAccent": {
+              "alpha": 255,
+              "blue": 96,
+              "green": 215,
+              "red": 30
+             },
+             "textSubdued": {
+              "alpha": 255,
+              "blue": 152,
+              "green": 192,
+              "red": 255
+             }
+            },
+            "minContrast": {
+             "backgroundBase": {
+              "alpha": 255,
+              "blue": 0,
+              "green": 64,
+              "red": 144
+             },
+             "backgroundTintedBase": {
+              "alpha": 255,
+              "blue": 0,
+              "green": 31,
+              "red": 103
+             },
+             "textBase": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textBrightAccent": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textSubdued": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             }
+            }
+           }
+          }
+         }
+        },
+        "artists": {
+         "items": [
+          {
+           "onPlatformReputationTrait": {
+            "verification": {
+             "aiPersona": null
+            }
+           },
+           "profile": {
+            "name": "Jane Remover"
+           },
+           "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+          }
+         ]
+        },
+        "associationsV3": {
+         "audioAssociations": {
+          "totalCount": 0
+         },
+         "videoAssociations": {
+          "totalCount": 0
+         }
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "duration": {
+         "totalMilliseconds": 230526
+        },
+        "id": "1XD4K4CGAKTIBmFpvuaFru",
+        "trackMediaType": "AUDIO",
+        "name": "Dancing with your eyes closed",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "uri": "spotify:track:1XD4K4CGAKTIBmFpvuaFru",
+        "visualIdentity": {
+         "sixteenByNineCoverImage": null
+        }
+       }
+      },
+      "matchedFields": []
+     },
+     {
+      "item": {
+       "__typename": "TrackResponseWrapper",
+       "data": {
+        "__typename": "Track",
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0225920ac69f3ad8a4b6065167",
+            "width": 300
+           },
+           {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485125920ac69f3ad8a4b6065167",
+            "width": 64
+           },
+           {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27325920ac69f3ad8a4b6065167",
+            "width": 640
+           }
+          ]
+         },
+         "id": "3xI4q1yRS4Vr1wMkQxlQjj",
+         "name": "Beauty Sleep",
+         "uri": "spotify:album:3xI4q1yRS4Vr1wMkQxlQjj",
+         "visualIdentity": {
+          "squareCoverImage": {
+           "__typename": "VisualIdentityImage",
+           "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+             "alpha": 255,
+             "blue": 232,
+             "green": 232,
+             "red": 232
+            },
+            "highContrast": {
+             "backgroundBase": {
+              "alpha": 255,
+              "blue": 83,
+              "green": 83,
+              "red": 83
+             },
+             "backgroundTintedBase": {
+              "alpha": 255,
+              "blue": 51,
+              "green": 51,
+              "red": 51
+             },
+             "textBase": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textBrightAccent": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textSubdued": {
+              "alpha": 255,
+              "blue": 205,
+              "green": 205,
+              "red": 205
+             }
+            },
+            "higherContrast": {
+             "backgroundBase": {
+              "alpha": 255,
+              "blue": 53,
+              "green": 53,
+              "red": 53
+             },
+             "backgroundTintedBase": {
+              "alpha": 255,
+              "blue": 86,
+              "green": 86,
+              "red": 86
+             },
+             "textBase": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textBrightAccent": {
+              "alpha": 255,
+              "blue": 96,
+              "green": 215,
+              "red": 30
+             },
+             "textSubdued": {
+              "alpha": 255,
+              "blue": 205,
+              "green": 205,
+              "red": 205
+             }
+            },
+            "minContrast": {
+             "backgroundBase": {
+              "alpha": 255,
+              "blue": 153,
+              "green": 153,
+              "red": 153
+             },
+             "backgroundTintedBase": {
+              "alpha": 255,
+              "blue": 128,
+              "green": 128,
+              "red": 128
+             },
+             "textBase": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textBrightAccent": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             },
+             "textSubdued": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 255,
+              "red": 255
+             }
+            }
+           }
+          }
+         }
+        },
+        "artists": {
+         "items": [
+          {
+           "onPlatformReputationTrait": {
+            "verification": {
+             "aiPersona": null
+            }
+           },
+           "profile": {
+            "name": "Jane Remover"
+           },
+           "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+          }
+         ]
+        },
+        "associationsV3": {
+         "audioAssociations": {
+          "totalCount": 0
+         },
+         "videoAssociations": {
+          "totalCount": 1
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "duration": {
+         "totalMilliseconds": 222967
+        },
+        "id": "1RrEB90qVYRsVE1DQsqwuJ",
+        "trackMediaType": "AUDIO",
+        "name": "Beauty Sleep",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "uri": "spotify:track:1RrEB90qVYRsVE1DQsqwuJ",
+        "visualIdentity": {
+         "sixteenByNineCoverImage": {
+          "image": {
+           "data": {
+            "__typename": "ImageV2",
+            "sources": [
+             {
+              "maxHeight": 360,
+              "maxWidth": 640,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6742d3000052b639c48a34af6a2ea8f6975d81"
+             },
+             {
+              "maxHeight": 720,
+              "maxWidth": 1280,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6742d3000053b639c48a34af6a2ea8f6975d81"
+             }
+            ]
+           }
+          }
+         }
+        }
+       }
+      },
+      "matchedFields": []
+     }
+    ],
+    "totalCount": 403
+   }
+  }
+ },
+ "extensions": {}
+}

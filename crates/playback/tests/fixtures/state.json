@@ -1,0 +1,412 @@
+[
+ {
+  "type": "auth_state",
+  "logged_in": true,
+  "is_active": false,
+  "device_name": "spotify-rs spike"
+ },
+ {
+  "type": "playback_state",
+  "status": "playing",
+  "item": {
+   "uri": "spotify:track:1XD4K4CGAKTIBmFpvuaFru",
+   "entity_type": "track",
+   "decorations": {
+    "identity": {
+     "name": "Dancing with your eyes closed"
+    },
+    "visual_identity": {
+     "cover": [
+      {
+       "url": "https://i.scdn.co/image/ab67616d00004851ab0d83b752dcf9f2a7ddd51b",
+       "size": "small"
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d00001e02ab0d83b752dcf9f2a7ddd51b",
+       "size": "default"
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+       "size": "large"
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+       "size": "xlarge"
+      }
+     ]
+    },
+    "parent": {
+     "entity": {
+      "uri": "spotify:album:21b4cDNse2AMpj94ykfuON",
+      "entity_type": "album",
+      "decorations": {
+       "identity": {
+        "name": "Revengeseekerz"
+       }
+      }
+     }
+    },
+    "creators": [
+     {
+      "entity": {
+       "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu",
+       "entity_type": "artist",
+       "decorations": {
+        "identity": {
+         "name": "Jane Remover"
+        }
+       }
+      }
+     }
+    ],
+    "playback": {
+     "duration_ms": 230526,
+     "content_ratings": []
+    }
+   }
+  },
+  "context": {
+   "uri": "spotify:playlist:37i9dQZF1F5p3rmiWPIYgZ",
+   "entity_type": "playlist",
+   "decorations": {
+    "identity": {
+     "name": "Liked Songs"
+    }
+   }
+  },
+  "position": {
+   "position_ms": 6684,
+   "timestamp_ms": 1793915177894,
+   "speed": 1
+  },
+  "volume": 100,
+  "is_active": false,
+  "options": {
+   "shuffle": false,
+   "repeat": "off",
+   "playback_speed": 1,
+   "modes": {
+    "context_enhancement": "NONE"
+   }
+  },
+  "available_actions": {
+   "add_to_queue": {},
+   "pause": {},
+   "seek": {},
+   "seek_backward": {
+    "step_ms": 15000
+   },
+   "seek_forward": {
+    "step_ms": 15000
+   },
+   "set_repeat": {},
+   "shuffle": {},
+   "skip_next": {}
+  }
+ },
+ {
+  "type": "playback_state",
+  "status": "playing",
+  "item": {
+   "uri": "spotify:track:1XD4K4CGAKTIBmFpvuaFru",
+   "entity_type": "track",
+   "decorations": {
+    "identity": {
+     "name": "Dancing with your eyes closed"
+    },
+    "visual_identity": {
+     "cover": [
+      {
+       "url": "https://i.scdn.co/image/ab67616d00004851ab0d83b752dcf9f2a7ddd51b",
+       "size": "small"
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d00001e02ab0d83b752dcf9f2a7ddd51b",
+       "size": "default"
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+       "size": "large"
+      },
+      {
+       "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+       "size": "xlarge"
+      }
+     ]
+    },
+    "parent": {
+     "entity": {
+      "uri": "spotify:album:21b4cDNse2AMpj94ykfuON",
+      "entity_type": "album",
+      "decorations": {
+       "identity": {
+        "name": "Revengeseekerz"
+       }
+      }
+     }
+    },
+    "creators": [
+     {
+      "entity": {
+       "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu",
+       "entity_type": "artist",
+       "decorations": {
+        "identity": {
+         "name": "Jane Remover"
+        }
+       }
+      }
+     }
+    ],
+    "playback": {
+     "duration_ms": 230526,
+     "content_ratings": []
+    }
+   }
+  },
+  "context": {
+   "uri": "spotify:playlist:37i9dQZF1F5p3rmiWPIYgZ",
+   "entity_type": "playlist",
+   "decorations": {
+    "identity": {
+     "name": "Liked Songs"
+    }
+   }
+  },
+  "position": {
+   "position_ms": 6684,
+   "timestamp_ms": 1793915177894,
+   "speed": 1
+  },
+  "volume": 100,
+  "is_active": false,
+  "options": {
+   "shuffle": false,
+   "repeat": "off",
+   "playback_speed": 1,
+   "modes": {
+    "context_enhancement": "NONE"
+   }
+  },
+  "available_actions": {
+   "add_to_queue": {},
+   "pause": {},
+   "seek": {},
+   "seek_backward": {
+    "step_ms": 15000
+   },
+   "seek_forward": {
+    "step_ms": 15000
+   },
+   "set_repeat": {},
+   "shuffle": {},
+   "skip_next": {}
+  }
+ },
+ {
+  "type": "queue_changed",
+  "previous": [],
+  "upcoming": [
+   {
+    "uid": "0b029cbb0e684eb25c80",
+    "source": "context",
+    "item": {
+     "uri": "spotify:track:3I4ryyC88EltQh67H5WY0i",
+     "entity_type": "track",
+     "decorations": {
+      "identity": {
+       "name": "I KNOW (MY INFLUENCE)"
+      },
+      "visual_identity": {
+       "cover": [
+        {
+         "url": "https://i.scdn.co/image/ab67616d00004851ee2648cc133c8719bd03de6a",
+         "size": "small"
+        },
+        {
+         "url": "https://i.scdn.co/image/ab67616d00001e02ee2648cc133c8719bd03de6a",
+         "size": "default"
+        },
+        {
+         "url": "https://i.scdn.co/image/ab67616d0000b273ee2648cc133c8719bd03de6a",
+         "size": "large"
+        },
+        {
+         "url": "https://i.scdn.co/image/ab67616d0000b273ee2648cc133c8719bd03de6a",
+         "size": "xlarge"
+        }
+       ]
+      },
+      "parent": {
+       "entity": {
+        "uri": "spotify:album:6tvaFPqqWY0KoTvQbNuqks",
+        "entity_type": "album",
+        "decorations": {
+         "identity": {
+          "name": "SPEED DEMON / I KNOW (MY INFLUENCE)"
+         }
+        }
+       }
+      },
+      "creators": [
+       {
+        "entity": {
+         "uri": "spotify:artist:2I8H267eH5va9da4vGt38O",
+         "entity_type": "artist",
+         "decorations": {
+          "identity": {
+           "name": "Lucy Bedroque"
+          }
+         }
+        }
+       }
+      ],
+      "playback": {
+       "duration_ms": 243000,
+       "content_ratings": []
+      }
+     }
+    }
+   },
+   {
+    "uid": "3a6d89ed396c539c1b3c",
+    "source": "context",
+    "item": {
+     "uri": "spotify:track:1NYRkODZfOLqMeHhi1HgGO",
+     "entity_type": "track",
+     "decorations": {
+      "identity": {
+       "name": "turning point (feat. Lucy Bedroque)"
+      },
+      "visual_identity": {
+       "cover": [
+        {
+         "url": "https://i.scdn.co/image/ab67616d000048512cd671d8008d3a7572e326ff",
+         "size": "small"
+        },
+        {
+         "url": "https://i.scdn.co/image/ab67616d00001e022cd671d8008d3a7572e326ff",
+         "size": "default"
+        },
+        {
+         "url": "https://i.scdn.co/image/ab67616d0000b2732cd671d8008d3a7572e326ff",
+         "size": "large"
+        },
+        {
+         "url": "https://i.scdn.co/image/ab67616d0000b2732cd671d8008d3a7572e326ff",
+         "size": "xlarge"
+        }
+       ]
+      },
+      "parent": {
+       "entity": {
+        "uri": "spotify:album:4cEoURtnbS0oR2alf3wI1o",
+        "entity_type": "album",
+        "decorations": {
+         "identity": {
+          "name": "turning point (feat. Lucy Bedroque)"
+         }
+        }
+       }
+      },
+      "creators": [
+       {
+        "entity": {
+         "uri": "spotify:artist:2Vcda6Z3Ugbq2ZlYnKGGfC",
+         "entity_type": "artist",
+         "decorations": {
+          "identity": {
+           "name": "Egobreak"
+          }
+         }
+        }
+       },
+       {
+        "entity": {
+         "uri": "spotify:artist:2I8H267eH5va9da4vGt38O",
+         "entity_type": "artist",
+         "decorations": {
+          "identity": {
+           "name": "Lucy Bedroque"
+          }
+         }
+        }
+       }
+      ],
+      "playback": {
+       "duration_ms": 145000,
+       "content_ratings": []
+      }
+     }
+    }
+   },
+   {
+    "uid": "417d9e5922ea219d93d9",
+    "source": "context",
+    "item": {
+     "uri": "spotify:track:1QIJivmbJu0ti0rTk1CujQ",
+     "entity_type": "track",
+     "decorations": {
+      "identity": {
+       "name": "PEACE IN PANDEMONIUM"
+      },
+      "visual_identity": {
+       "cover": [
+        {
+         "url": "https://i.scdn.co/image/ab67616d0000485142f1c3ef70c241fe934bbcca",
+         "size": "small"
+        },
+        {
+         "url": "https://i.scdn.co/image/ab67616d00001e0242f1c3ef70c241fe934bbcca",
+         "size": "default"
+        },
+        {
+         "url": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+         "size": "large"
+        },
+        {
+         "url": "https://i.scdn.co/image/ab67616d0000b27342f1c3ef70c241fe934bbcca",
+         "size": "xlarge"
+        }
+       ]
+      },
+      "parent": {
+       "entity": {
+        "uri": "spotify:album:6cwZdsIawCaF4Ukh7KV24l",
+        "entity_type": "album",
+        "decorations": {
+         "identity": {
+          "name": "c"
+         }
+        }
+       }
+      },
+      "creators": [
+       {
+        "entity": {
+         "uri": "spotify:artist:2I8H267eH5va9da4vGt38O",
+         "entity_type": "artist",
+         "decorations": {
+          "identity": {
+           "name": "Lucy Bedroque"
+          }
+         }
+        }
+       }
+      ],
+      "playback": {
+       "duration_ms": 172000,
+       "content_ratings": []
+      }
+     }
+    }
+   }
+  ]
+ },
+ {
+  "type": "auth_state",
+  "logged_in": true,
+  "is_active": false,
+  "device_name": "spotify-rs spike"
+ }
+]

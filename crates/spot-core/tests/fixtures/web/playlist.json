@@ -1,0 +1,1056 @@
+{
+ "data": {
+  "playlistV2": {
+   "__typename": "Playlist",
+   "content": {
+    "__typename": "PlaylistItemsPage",
+    "items": [
+     {
+      "addedAt": {
+       "isoString": "2025-07-29T15:40:21Z"
+      },
+      "attributes": [],
+      "itemV2": {
+       "__typename": "TrackResponseWrapper",
+       "data": {
+        "__typename": "Track",
+        "albumOfTrack": {
+         "artists": {
+          "items": [
+           {
+            "profile": {
+             "name": "SINN6R"
+            },
+            "uri": "spotify:artist:7eUESbuvdPXjeidnqrCeyY"
+           }
+          ]
+         },
+         "coverArt": {
+          "sources": [
+           {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02de0e423329342811bd0224d9",
+            "width": 300
+           },
+           {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851de0e423329342811bd0224d9",
+            "width": 64
+           },
+           {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273de0e423329342811bd0224d9",
+            "width": 640
+           }
+          ]
+         },
+         "date": {
+          "isoString": "2025-07-11T00:00:00Z",
+          "precision": "DAY"
+         },
+         "name": "2Often",
+         "uri": "spotify:album:3Yu0qMmjnu7MnBhU4QCsJh"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "SINN6R"
+           },
+           "uri": "spotify:artist:7eUESbuvdPXjeidnqrCeyY"
+          }
+         ]
+        },
+        "associationsV3": {
+         "audioAssociations": {
+          "__typename": "TrackAudioAssociationPage",
+          "items": []
+         },
+         "videoAssociations": {
+          "totalCount": 0
+         }
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "trackDuration": {
+         "totalMilliseconds": 90947
+        },
+        "mediaType": "AUDIO",
+        "name": "Interview",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "301973",
+        "playlistAudioAttributes": {
+         "bpm": 190.002,
+         "key": {
+          "camelotKey": {
+           "color": "#3ded82",
+           "value": "2B"
+          },
+          "key": "F#",
+          "mode": "MODE_MAJOR"
+         }
+        },
+        "trackNumber": 14,
+        "uri": "spotify:track:4SWyOAtHVNdnczEIsLvMN2"
+       }
+      },
+      "itemV3": {
+       "__typename": "EntityResponseWrapper",
+       "data": {
+        "__typename": "Entity",
+        "consumptionExperienceTrait": {
+         "__typename": "ConsumptionExperienceTrait",
+         "contentRatings": [
+          "CONTENT_RATING_EXPLICIT"
+         ],
+         "duration": {
+          "nanoSeconds": 0,
+          "seconds": 90
+         },
+         "formats": [
+          "FORMAT_AUDIO",
+          "FORMAT_LOSSLESS"
+         ]
+        },
+        "contentExperienceTrait": {
+         "__typename": "ContentExperienceTrait",
+         "contentExperience": "CONTENT_EXPERIENCE_MUSIC"
+        },
+        "entityTypeTrait": {
+         "__typename": "EntityTypeTrait",
+         "type": "ENTITY_TYPE_TRACK"
+        },
+        "identityTrait": {
+         "__typename": "IdentityTrait",
+         "contentHierarchyParent": {
+          "__typename": "Entity",
+          "identityTrait": {
+           "__typename": "IdentityTrait",
+           "name": "2Often"
+          },
+          "publishingMetadataTrait": {
+           "__typename": "PublishingMetadataTrait",
+           "firstPublishedAt": {
+            "isoString": "2025-07-11",
+            "precision": "DAY"
+           }
+          },
+          "uri": "spotify:album:3Yu0qMmjnu7MnBhU4QCsJh"
+         },
+         "contributors": {
+          "items": [
+           {
+            "name": "SINN6R",
+            "uri": "spotify:artist:7eUESbuvdPXjeidnqrCeyY"
+           }
+          ],
+          "totalCount": 1
+         },
+         "description": "",
+         "name": "Interview",
+         "type": "Song"
+        },
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "uri": "spotify:track:4SWyOAtHVNdnczEIsLvMN2",
+        "visualIdentityTrait": {
+         "__typename": "VisualIdentityTrait",
+         "sixteenByNineCoverImage": null,
+         "squareCoverImage": {
+          "extractedColorSet": {
+           "encoreBaseSetTextColor": {
+            "alpha": 255,
+            "blue": 200,
+            "green": 192,
+            "red": 160
+           },
+           "highContrast": {
+            "backgroundBase": {
+             "alpha": 255,
+             "blue": 95,
+             "green": 88,
+             "red": 58
+            },
+            "backgroundTintedBase": {
+             "alpha": 255,
+             "blue": 61,
+             "green": 55,
+             "red": 26
+            },
+            "textBase": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textBrightAccent": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textSubdued": {
+             "alpha": 255,
+             "blue": 219,
+             "green": 211,
+             "red": 178
+            }
+           },
+           "higherContrast": {
+            "backgroundBase": {
+             "alpha": 255,
+             "blue": 64,
+             "green": 57,
+             "red": 28
+            },
+            "backgroundTintedBase": {
+             "alpha": 255,
+             "blue": 98,
+             "green": 90,
+             "red": 61
+            },
+            "textBase": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textBrightAccent": {
+             "alpha": 255,
+             "blue": 96,
+             "green": 215,
+             "red": 30
+            },
+            "textSubdued": {
+             "alpha": 255,
+             "blue": 219,
+             "green": 211,
+             "red": 178
+            }
+           },
+           "minContrast": {
+            "backgroundBase": {
+             "alpha": 255,
+             "blue": 166,
+             "green": 158,
+             "red": 127
+            },
+            "backgroundTintedBase": {
+             "alpha": 255,
+             "blue": 141,
+             "green": 133,
+             "red": 103
+            },
+            "textBase": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textBrightAccent": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textSubdued": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            }
+           }
+          },
+          "image": {
+           "data": {
+            "__typename": "ImageV2",
+            "sources": [
+             {
+              "imageFormat": "WEBP",
+              "maxHeight": 640,
+              "maxWidth": 640,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000075a0de0e423329342811bd0224d9"
+             },
+             {
+              "imageFormat": "WEBP",
+              "maxHeight": 64,
+              "maxWidth": 64,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000090d5de0e423329342811bd0224d9"
+             },
+             {
+              "imageFormat": "WEBP",
+              "maxHeight": 300,
+              "maxWidth": 300,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000ab87de0e423329342811bd0224d9"
+             }
+            ]
+           }
+          }
+         }
+        }
+       }
+      },
+      "uid": "8a2f49e468f24758"
+     },
+     {
+      "addedAt": {
+       "isoString": "2025-07-31T23:20:29Z"
+      },
+      "attributes": [],
+      "itemV2": {
+       "__typename": "TrackResponseWrapper",
+       "data": {
+        "__typename": "Track",
+        "albumOfTrack": {
+         "artists": {
+          "items": [
+           {
+            "profile": {
+             "name": "5EB"
+            },
+            "uri": "spotify:artist:70P7as3HD8esc9Dx2TAR7o"
+           }
+          ]
+         },
+         "coverArt": {
+          "sources": [
+           {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0266ecf9cebddb3ccd0991c76d",
+            "width": 300
+           },
+           {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485166ecf9cebddb3ccd0991c76d",
+            "width": 64
+           },
+           {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27366ecf9cebddb3ccd0991c76d",
+            "width": 640
+           }
+          ]
+         },
+         "date": {
+          "isoString": "2025-08-01T00:00:00Z",
+          "precision": "DAY"
+         },
+         "name": "allsummalong",
+         "uri": "spotify:album:2sw5oobm4HLD6kcDIUIOYY"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "5EB"
+           },
+           "uri": "spotify:artist:70P7as3HD8esc9Dx2TAR7o"
+          }
+         ]
+        },
+        "associationsV3": {
+         "audioAssociations": {
+          "__typename": "TrackAudioAssociationPage",
+          "items": []
+         },
+         "videoAssociations": {
+          "totalCount": 0
+         }
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "trackDuration": {
+         "totalMilliseconds": 131455
+        },
+        "mediaType": "AUDIO",
+        "name": "hysteric",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "400389",
+        "playlistAudioAttributes": {
+         "bpm": 73.0,
+         "key": {
+          "camelotKey": {
+           "color": "#beceff",
+           "value": "10A"
+          },
+          "key": "B",
+          "mode": "MODE_MINOR"
+         }
+        },
+        "trackNumber": 2,
+        "uri": "spotify:track:16umxgUbVT8BymYGqFZ1OW"
+       }
+      },
+      "itemV3": {
+       "__typename": "EntityResponseWrapper",
+       "data": {
+        "__typename": "Entity",
+        "consumptionExperienceTrait": {
+         "__typename": "ConsumptionExperienceTrait",
+         "contentRatings": [
+          "CONTENT_RATING_EXPLICIT"
+         ],
+         "duration": {
+          "nanoSeconds": 0,
+          "seconds": 131
+         },
+         "formats": [
+          "FORMAT_AUDIO",
+          "FORMAT_LOSSLESS"
+         ]
+        },
+        "contentExperienceTrait": {
+         "__typename": "ContentExperienceTrait",
+         "contentExperience": "CONTENT_EXPERIENCE_MUSIC"
+        },
+        "entityTypeTrait": {
+         "__typename": "EntityTypeTrait",
+         "type": "ENTITY_TYPE_TRACK"
+        },
+        "identityTrait": {
+         "__typename": "IdentityTrait",
+         "contentHierarchyParent": {
+          "__typename": "Entity",
+          "identityTrait": {
+           "__typename": "IdentityTrait",
+           "name": "allsummalong"
+          },
+          "publishingMetadataTrait": {
+           "__typename": "PublishingMetadataTrait",
+           "firstPublishedAt": {
+            "isoString": "2025-08-01",
+            "precision": "DAY"
+           }
+          },
+          "uri": "spotify:album:2sw5oobm4HLD6kcDIUIOYY"
+         },
+         "contributors": {
+          "items": [
+           {
+            "name": "5EB",
+            "uri": "spotify:artist:70P7as3HD8esc9Dx2TAR7o"
+           }
+          ],
+          "totalCount": 1
+         },
+         "description": "",
+         "name": "hysteric",
+         "type": "Song"
+        },
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "uri": "spotify:track:16umxgUbVT8BymYGqFZ1OW",
+        "visualIdentityTrait": {
+         "__typename": "VisualIdentityTrait",
+         "sixteenByNineCoverImage": null,
+         "squareCoverImage": {
+          "extractedColorSet": {
+           "encoreBaseSetTextColor": {
+            "alpha": 255,
+            "blue": 240,
+            "green": 240,
+            "red": 240
+           },
+           "highContrast": {
+            "backgroundBase": {
+             "alpha": 255,
+             "blue": 83,
+             "green": 83,
+             "red": 83
+            },
+            "backgroundTintedBase": {
+             "alpha": 255,
+             "blue": 51,
+             "green": 51,
+             "red": 51
+            },
+            "textBase": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textBrightAccent": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textSubdued": {
+             "alpha": 255,
+             "blue": 205,
+             "green": 205,
+             "red": 205
+            }
+           },
+           "higherContrast": {
+            "backgroundBase": {
+             "alpha": 255,
+             "blue": 53,
+             "green": 53,
+             "red": 53
+            },
+            "backgroundTintedBase": {
+             "alpha": 255,
+             "blue": 86,
+             "green": 86,
+             "red": 86
+            },
+            "textBase": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textBrightAccent": {
+             "alpha": 255,
+             "blue": 96,
+             "green": 215,
+             "red": 30
+            },
+            "textSubdued": {
+             "alpha": 255,
+             "blue": 205,
+             "green": 205,
+             "red": 205
+            }
+           },
+           "minContrast": {
+            "backgroundBase": {
+             "alpha": 255,
+             "blue": 153,
+             "green": 153,
+             "red": 153
+            },
+            "backgroundTintedBase": {
+             "alpha": 255,
+             "blue": 128,
+             "green": 128,
+             "red": 128
+            },
+            "textBase": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textBrightAccent": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textSubdued": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            }
+           }
+          },
+          "image": {
+           "data": {
+            "__typename": "ImageV2",
+            "sources": [
+             {
+              "imageFormat": "WEBP",
+              "maxHeight": 640,
+              "maxWidth": 640,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a066ecf9cebddb3ccd0991c76d"
+             },
+             {
+              "imageFormat": "WEBP",
+              "maxHeight": 64,
+              "maxWidth": 64,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d566ecf9cebddb3ccd0991c76d"
+             },
+             {
+              "imageFormat": "WEBP",
+              "maxHeight": 300,
+              "maxWidth": 300,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab8766ecf9cebddb3ccd0991c76d"
+             }
+            ]
+           }
+          }
+         }
+        }
+       }
+      },
+      "uid": "9f198d1c1fc6fb75"
+     },
+     {
+      "addedAt": {
+       "isoString": "2025-07-31T23:20:47Z"
+      },
+      "attributes": [],
+      "itemV2": {
+       "__typename": "TrackResponseWrapper",
+       "data": {
+        "__typename": "Track",
+        "albumOfTrack": {
+         "artists": {
+          "items": [
+           {
+            "profile": {
+             "name": "5EB"
+            },
+            "uri": "spotify:artist:70P7as3HD8esc9Dx2TAR7o"
+           }
+          ]
+         },
+         "coverArt": {
+          "sources": [
+           {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0266ecf9cebddb3ccd0991c76d",
+            "width": 300
+           },
+           {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485166ecf9cebddb3ccd0991c76d",
+            "width": 64
+           },
+           {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27366ecf9cebddb3ccd0991c76d",
+            "width": 640
+           }
+          ]
+         },
+         "date": {
+          "isoString": "2025-08-01T00:00:00Z",
+          "precision": "DAY"
+         },
+         "name": "allsummalong",
+         "uri": "spotify:album:2sw5oobm4HLD6kcDIUIOYY"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "5EB"
+           },
+           "uri": "spotify:artist:70P7as3HD8esc9Dx2TAR7o"
+          }
+         ]
+        },
+        "associationsV3": {
+         "audioAssociations": {
+          "__typename": "TrackAudioAssociationPage",
+          "items": []
+         },
+         "videoAssociations": {
+          "totalCount": 0
+         }
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "trackDuration": {
+         "totalMilliseconds": 125191
+        },
+        "mediaType": "AUDIO",
+        "name": "wait on me",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "71379",
+        "playlistAudioAttributes": {
+         "bpm": 191.474,
+         "key": {
+          "camelotKey": {
+           "color": "#ddb4fb",
+           "value": "9A"
+          },
+          "key": "E",
+          "mode": "MODE_MINOR"
+         }
+        },
+        "trackNumber": 3,
+        "uri": "spotify:track:0DoZMCpsZaZHVw1eLCdTBM"
+       }
+      },
+      "itemV3": {
+       "__typename": "EntityResponseWrapper",
+       "data": {
+        "__typename": "Entity",
+        "consumptionExperienceTrait": {
+         "__typename": "ConsumptionExperienceTrait",
+         "contentRatings": [
+          "CONTENT_RATING_EXPLICIT"
+         ],
+         "duration": {
+          "nanoSeconds": 0,
+          "seconds": 125
+         },
+         "formats": [
+          "FORMAT_AUDIO",
+          "FORMAT_LOSSLESS"
+         ]
+        },
+        "contentExperienceTrait": {
+         "__typename": "ContentExperienceTrait",
+         "contentExperience": "CONTENT_EXPERIENCE_MUSIC"
+        },
+        "entityTypeTrait": {
+         "__typename": "EntityTypeTrait",
+         "type": "ENTITY_TYPE_TRACK"
+        },
+        "identityTrait": {
+         "__typename": "IdentityTrait",
+         "contentHierarchyParent": {
+          "__typename": "Entity",
+          "identityTrait": {
+           "__typename": "IdentityTrait",
+           "name": "allsummalong"
+          },
+          "publishingMetadataTrait": {
+           "__typename": "PublishingMetadataTrait",
+           "firstPublishedAt": {
+            "isoString": "2025-08-01",
+            "precision": "DAY"
+           }
+          },
+          "uri": "spotify:album:2sw5oobm4HLD6kcDIUIOYY"
+         },
+         "contributors": {
+          "items": [
+           {
+            "name": "5EB",
+            "uri": "spotify:artist:70P7as3HD8esc9Dx2TAR7o"
+           }
+          ],
+          "totalCount": 1
+         },
+         "description": "",
+         "name": "wait on me",
+         "type": "Song"
+        },
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "uri": "spotify:track:0DoZMCpsZaZHVw1eLCdTBM",
+        "visualIdentityTrait": {
+         "__typename": "VisualIdentityTrait",
+         "sixteenByNineCoverImage": null,
+         "squareCoverImage": {
+          "extractedColorSet": {
+           "encoreBaseSetTextColor": {
+            "alpha": 255,
+            "blue": 240,
+            "green": 240,
+            "red": 240
+           },
+           "highContrast": {
+            "backgroundBase": {
+             "alpha": 255,
+             "blue": 83,
+             "green": 83,
+             "red": 83
+            },
+            "backgroundTintedBase": {
+             "alpha": 255,
+             "blue": 51,
+             "green": 51,
+             "red": 51
+            },
+            "textBase": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textBrightAccent": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textSubdued": {
+             "alpha": 255,
+             "blue": 205,
+             "green": 205,
+             "red": 205
+            }
+           },
+           "higherContrast": {
+            "backgroundBase": {
+             "alpha": 255,
+             "blue": 53,
+             "green": 53,
+             "red": 53
+            },
+            "backgroundTintedBase": {
+             "alpha": 255,
+             "blue": 86,
+             "green": 86,
+             "red": 86
+            },
+            "textBase": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textBrightAccent": {
+             "alpha": 255,
+             "blue": 96,
+             "green": 215,
+             "red": 30
+            },
+            "textSubdued": {
+             "alpha": 255,
+             "blue": 205,
+             "green": 205,
+             "red": 205
+            }
+           },
+           "minContrast": {
+            "backgroundBase": {
+             "alpha": 255,
+             "blue": 153,
+             "green": 153,
+             "red": 153
+            },
+            "backgroundTintedBase": {
+             "alpha": 255,
+             "blue": 128,
+             "green": 128,
+             "red": 128
+            },
+            "textBase": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textBrightAccent": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            },
+            "textSubdued": {
+             "alpha": 255,
+             "blue": 255,
+             "green": 255,
+             "red": 255
+            }
+           }
+          },
+          "image": {
+           "data": {
+            "__typename": "ImageV2",
+            "sources": [
+             {
+              "imageFormat": "WEBP",
+              "maxHeight": 640,
+              "maxWidth": 640,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a066ecf9cebddb3ccd0991c76d"
+             },
+             {
+              "imageFormat": "WEBP",
+              "maxHeight": 64,
+              "maxWidth": 64,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d566ecf9cebddb3ccd0991c76d"
+             },
+             {
+              "imageFormat": "WEBP",
+              "maxHeight": 300,
+              "maxWidth": 300,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab8766ecf9cebddb3ccd0991c76d"
+             }
+            ]
+           }
+          }
+         }
+        }
+       }
+      },
+      "uid": "8b1034cfc01e9f61"
+     }
+    ],
+    "pagingInfo": {
+     "limit": 100,
+     "offset": 0
+    },
+    "totalCount": 81
+   },
+   "abuseReportingEnabled": true,
+   "attributes": [],
+   "basePermission": "VIEWER",
+   "currentUserCapabilities": {
+    "canAbuseReport": true,
+    "canAdministratePermissions": false,
+    "canCancelMembership": false,
+    "canEditItems": false,
+    "canEditMetadata": false,
+    "canMixPlaylist": false,
+    "canView": true
+   },
+   "description": "",
+   "followers": 4,
+   "following": true,
+   "format": "",
+   "images": {
+    "items": [
+     {
+      "sources": [
+       {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e0225a15acc62102c5c25db29c3ab67616d00001e0238bfe1ca13249e6acaa4dde0ab67616d00001e0266ecf9cebddb3ccd0991c76dab67616d00001e02de0e423329342811bd0224d9",
+        "width": 640
+       },
+       {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e0225a15acc62102c5c25db29c3ab67616d00001e0238bfe1ca13249e6acaa4dde0ab67616d00001e0266ecf9cebddb3ccd0991c76dab67616d00001e02de0e423329342811bd0224d9",
+        "width": 300
+       },
+       {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e0225a15acc62102c5c25db29c3ab67616d00001e0238bfe1ca13249e6acaa4dde0ab67616d00001e0266ecf9cebddb3ccd0991c76dab67616d00001e02de0e423329342811bd0224d9",
+        "width": 60
+       }
+      ]
+     }
+    ]
+   },
+   "name": "Main",
+   "ownerV2": {
+    "data": {
+     "name": "owner",
+     "uri": "spotify:user:owner"
+    }
+   },
+   "revisionId": "AAAAb0Zk21fGdE2HtCZ8k2yuEsDQu5o1",
+   "uri": "spotify:playlist:3ld2R8VhdMN1Y1CwdlXAAi",
+   "visualIdentity": {
+    "squareCoverImage": {
+     "__typename": "VisualIdentityImage",
+     "extractedColorSet": {
+      "encoreBaseSetTextColor": {
+       "alpha": 255,
+       "blue": 194,
+       "green": 157,
+       "red": 255
+      },
+      "highContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 83,
+        "green": 24,
+        "red": 151
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 44,
+        "green": 0,
+        "red": 95
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 211,
+        "green": 186,
+        "red": 255
+       }
+      },
+      "higherContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 47,
+        "green": 0,
+        "red": 99
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 84,
+        "green": 50,
+        "red": 144
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 96,
+        "green": 215,
+        "red": 30
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 211,
+        "green": 186,
+        "red": 255
+       }
+      },
+      "minContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 144,
+        "green": 96,
+        "red": 224
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 118,
+        "green": 68,
+        "red": 194
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

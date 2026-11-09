@@ -1,0 +1,1507 @@
+{
+ "data": {
+  "home": {
+   "__typename": "HomeResponsePayload",
+   "greeting": {
+    "transformedLabel": "Good evening",
+    "translatedBaseText": "Good evening"
+   },
+   "sectionContainer": {
+    "sections": {
+     "items": [
+      {
+       "data": {
+        "__typename": "HomeGenericSectionData",
+        "headerEntity": {
+         "__typename": "UnknownType"
+        },
+        "subtitle": {
+         "transformedLabel": "",
+         "translatedBaseText": null
+        },
+        "title": {
+         "transformedLabel": "Jump back in",
+         "translatedBaseText": "Jump back in"
+        }
+       },
+       "sectionItems": {
+        "items": [
+         {
+          "content": {
+           "__typename": "AlbumResponseWrapper",
+           "data": {
+            "__typename": "Album",
+            "artists": {
+             "items": [
+              {
+               "profile": {
+                "name": "ZØMB"
+               },
+               "uri": "spotify:artist:79NIVAOefeJgwo0QIIZ9t2"
+              }
+             ]
+            },
+            "coverArt": {
+             "sources": [
+              {
+               "height": 300,
+               "url": "https://i.scdn.co/image/ab67616d00001e02084db3317c53f6c3f7933413",
+               "width": 300
+              },
+              {
+               "height": 64,
+               "url": "https://i.scdn.co/image/ab67616d00004851084db3317c53f6c3f7933413",
+               "width": 64
+              },
+              {
+               "height": 640,
+               "url": "https://i.scdn.co/image/ab67616d0000b273084db3317c53f6c3f7933413",
+               "width": 640
+              }
+             ]
+            },
+            "isPreRelease": false,
+            "name": "PRETTY SURGEON",
+            "playability": {
+             "playable": true,
+             "reason": "PLAYABLE"
+            },
+            "preReleaseEndDateTime": {
+             "isoString": "2026-09-18T04:00:00Z"
+            },
+            "albumType": "EP",
+            "uri": "spotify:album:6jV98kIvbHjhRiIeakALqF"
+           }
+          },
+          "data": null,
+          "uri": "spotify:album:6jV98kIvbHjhRiIeakALqF"
+         },
+         {
+          "content": {
+           "__typename": "AlbumResponseWrapper",
+           "data": {
+            "__typename": "Album",
+            "artists": {
+             "items": [
+              {
+               "profile": {
+                "name": "Tiffany Day"
+               },
+               "uri": "spotify:artist:5D5Qbe1lf3aMnLsPSzXItu"
+              },
+              {
+               "profile": {
+                "name": "glaive"
+               },
+               "uri": "spotify:artist:4cJKDGSv4Dz9QycXYmo565"
+              }
+             ]
+            },
+            "coverArt": {
+             "sources": [
+              {
+               "height": 300,
+               "url": "https://i.scdn.co/image/ab67616d00001e0221730ee47f9c611b1ca91873",
+               "width": 300
+              },
+              {
+               "height": 64,
+               "url": "https://i.scdn.co/image/ab67616d0000485121730ee47f9c611b1ca91873",
+               "width": 64
+              },
+              {
+               "height": 640,
+               "url": "https://i.scdn.co/image/ab67616d0000b27321730ee47f9c611b1ca91873",
+               "width": 640
+              }
+             ]
+            },
+            "isPreRelease": false,
+            "name": "MEANT TO BE",
+            "playability": {
+             "playable": true,
+             "reason": "PLAYABLE"
+            },
+            "preReleaseEndDateTime": null,
+            "albumType": "SINGLE",
+            "uri": "spotify:album:6MoccCZq9aCOif59XMqkxp"
+           }
+          },
+          "data": null,
+          "uri": "spotify:album:6MoccCZq9aCOif59XMqkxp"
+         },
+         {
+          "content": {
+           "__typename": "AlbumResponseWrapper",
+           "data": {
+            "__typename": "Album",
+            "artists": {
+             "items": [
+              {
+               "profile": {
+                "name": "femtanyl"
+               },
+               "uri": "spotify:artist:53e9n1LucuH3guikmtv180"
+              }
+             ]
+            },
+            "coverArt": {
+             "sources": [
+              {
+               "height": 300,
+               "url": "https://i.scdn.co/image/ab67616d00001e02f6ba9ffdf7bf261f3b9beeae",
+               "width": 300
+              },
+              {
+               "height": 64,
+               "url": "https://i.scdn.co/image/ab67616d00004851f6ba9ffdf7bf261f3b9beeae",
+               "width": 64
+              },
+              {
+               "height": 640,
+               "url": "https://i.scdn.co/image/ab67616d0000b273f6ba9ffdf7bf261f3b9beeae",
+               "width": 640
+              }
+             ]
+            },
+            "isPreRelease": false,
+            "name": "ALL THE TIME",
+            "playability": {
+             "playable": true,
+             "reason": "PLAYABLE"
+            },
+            "preReleaseEndDateTime": null,
+            "albumType": "SINGLE",
+            "uri": "spotify:album:6DZxQpQzDRwsJhDxsKY6dH"
+           }
+          },
+          "data": null,
+          "uri": "spotify:album:6DZxQpQzDRwsJhDxsKY6dH"
+         }
+        ],
+        "pagingInfo": {
+         "nextOffset": null
+        },
+        "totalCount": 6
+       },
+       "uri": "spotify:section:0JQ5DAIiKWzVFULQfUm85X"
+      },
+      {
+       "data": {
+        "__typename": "HomeGenericSectionData",
+        "headerEntity": {
+         "__typename": "UnknownType"
+        },
+        "subtitle": {
+         "transformedLabel": "",
+         "translatedBaseText": null
+        },
+        "title": {
+         "transformedLabel": "Recently played",
+         "translatedBaseText": "Recently played"
+        }
+       },
+       "sectionItems": {
+        "items": [
+         {
+          "content": {
+           "__typename": "PlaylistResponseWrapper",
+           "data": {
+            "__typename": "Playlist",
+            "attributes": [
+             {
+              "key": "reporting.uri",
+              "value": "spotify:user:0uaktefav92xfmbx26j1narmh:collection"
+             }
+            ],
+            "content": {
+             "__typename": "PlaylistItemsPage",
+             "totalCount": 0
+            },
+            "description": "",
+            "format": "liked-songs",
+            "images": {
+             "items": [
+              {
+               "sources": [
+                {
+                 "height": null,
+                 "url": "https://misc.scdn.co/liked-songs/liked-songs-300.png",
+                 "width": null
+                }
+               ]
+              }
+             ]
+            },
+            "name": "Liked Songs",
+            "ownerV2": {
+             "data": {
+              "name": "owner",
+              "uri": "spotify:user:owner"
+             }
+            },
+            "uri": "spotify:playlist:37i9dQZF1F5p3rmiWPIYgZ"
+           }
+          },
+          "data": null,
+          "uri": "spotify:playlist:37i9dQZF1F5p3rmiWPIYgZ"
+         },
+         {
+          "content": {
+           "__typename": "PlaylistResponseWrapper",
+           "data": {
+            "__typename": "Playlist",
+            "attributes": [],
+            "content": {
+             "__typename": "PlaylistItemsPage",
+             "totalCount": 82
+            },
+            "description": "curated from Main + Last.fm history, 2026-08",
+            "format": "",
+            "images": {
+             "items": [
+              {
+               "sources": [
+                {
+                 "height": 640,
+                 "url": "https://mosaic.scdn.co/640/ab67616d00001e02468ed8e77a2b1ecae752a350ab67616d00001e02613891aadbf30bad560087d5ab67616d00001e029f8a966c9d7ed81b03be596cab67616d00001e02ac2c22f281d4384470091da4",
+                 "width": 640
+                },
+                {
+                 "height": 300,
+                 "url": "https://mosaic.scdn.co/300/ab67616d00001e02468ed8e77a2b1ecae752a350ab67616d00001e02613891aadbf30bad560087d5ab67616d00001e029f8a966c9d7ed81b03be596cab67616d00001e02ac2c22f281d4384470091da4",
+                 "width": 300
+                },
+                {
+                 "height": 60,
+                 "url": "https://mosaic.scdn.co/60/ab67616d00001e02468ed8e77a2b1ecae752a350ab67616d00001e02613891aadbf30bad560087d5ab67616d00001e029f8a966c9d7ed81b03be596cab67616d00001e02ac2c22f281d4384470091da4",
+                 "width": 60
+                }
+               ]
+              }
+             ]
+            },
+            "name": "New Blood",
+            "ownerV2": {
+             "data": {
+              "name": "owner",
+              "uri": "spotify:user:owner"
+             }
+            },
+            "uri": "spotify:playlist:21erFbLzdJurEYKz86wDwv"
+           }
+          },
+          "data": null,
+          "uri": "spotify:playlist:21erFbLzdJurEYKz86wDwv"
+         },
+         {
+          "content": {
+           "__typename": "AlbumResponseWrapper",
+           "data": {
+            "__typename": "Album",
+            "artists": {
+             "items": [
+              {
+               "profile": {
+                "name": "Odetari"
+               },
+               "uri": "spotify:artist:7ITMCzIU9uII8gwRg8JAhc"
+              }
+             ]
+            },
+            "coverArt": {
+             "sources": [
+              {
+               "height": 300,
+               "url": "https://i.scdn.co/image/ab67616d00001e02e06c1525c488705c512884bd",
+               "width": 300
+              },
+              {
+               "height": 64,
+               "url": "https://i.scdn.co/image/ab67616d00004851e06c1525c488705c512884bd",
+               "width": 64
+              },
+              {
+               "height": 640,
+               "url": "https://i.scdn.co/image/ab67616d0000b273e06c1525c488705c512884bd",
+               "width": 640
+              }
+             ]
+            },
+            "isPreRelease": false,
+            "name": "KEEP UP // FROSTBITE",
+            "playability": {
+             "playable": true,
+             "reason": "PLAYABLE"
+            },
+            "preReleaseEndDateTime": null,
+            "albumType": "SINGLE",
+            "uri": "spotify:album:526xuSD6c45Gb5hH4rN8RY"
+           }
+          },
+          "data": null,
+          "uri": "spotify:album:526xuSD6c45Gb5hH4rN8RY"
+         }
+        ],
+        "pagingInfo": {
+         "nextOffset": 10
+        },
+        "totalCount": 15
+       },
+       "uri": "spotify:section:0JQ5DAob0KZzPQKc9YbqhR"
+      },
+      {
+       "data": {
+        "__typename": "HomeGenericSectionData",
+        "headerEntity": {
+         "__typename": "UnknownType"
+        },
+        "subtitle": {
+         "transformedLabel": "",
+         "translatedBaseText": null
+        },
+        "title": {
+         "transformedLabel": "Made For dannycake",
+         "translatedBaseText": "Made For {0}"
+        }
+       },
+       "sectionItems": {
+        "items": [
+         {
+          "content": {
+           "__typename": "PlaylistResponseWrapper",
+           "data": {
+            "__typename": "Playlist",
+            "attributes": [
+             {
+              "key": "canContainArtists.uris",
+              "value": "spotify:artist:2rLGlNI6htigNxx172qxLu,spotify:artist:4cJKDGSv4Dz9QycXYmo565,spotify:artist:4hR6Bm9YYtktXzjmKhb1Cn,spotify:artist:4kqFrZkeqDfOIEqTWqbOOV,spotify:artist:72NhFAGG5Pt91VbheJeEPG"
+             },
+             {
+              "key": "image_url",
+              "value": "https://i.scdn.co/image/ab6761610000e5ebb3ba80684c90081ad8c0b7f2"
+             },
+             {
+              "key": "header_image_url_desktop",
+              "value": "https://i.scdn.co/image/ab67618600001016e9ac1f62b677497779ae5c89"
+             },
+             {
+              "key": "madeFor.username",
+              "value": "dannycake"
+             },
+             {
+              "key": "madeFor.displayed",
+              "value": "1"
+             },
+             {
+              "key": "temporary_hack_prefer_linear_playback",
+              "value": "true"
+             },
+             {
+              "key": "should_show_promo_disclosure",
+              "value": "true"
+             },
+             {
+              "key": "send-impression-for-rows",
+              "value": "true"
+             },
+             {
+              "key": "correlation-id",
+              "value": "ssp~065f90a9d908eaa36f48ccdfafd071ea5a73"
+             }
+            ],
+            "content": {
+             "__typename": "PlaylistItemsPage",
+             "totalCount": 50
+            },
+            "description": "Jane Remover, glaive, ericdoa and more",
+            "format": "daily-mix",
+            "images": {
+             "items": [
+              {
+               "sources": [
+                {
+                 "height": null,
+                 "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/daily/1/ab6761610000e5ebb3ba80684c90081ad8c0b7f2/en",
+                 "width": null
+                }
+               ]
+              }
+             ]
+            },
+            "name": "Daily Mix 1",
+            "ownerV2": {
+             "data": {
+              "name": "owner",
+              "uri": "spotify:user:owner"
+             }
+            },
+            "uri": "spotify:playlist:37i9dQZF1E39lhckUcckEM"
+           }
+          },
+          "data": null,
+          "uri": "spotify:playlist:37i9dQZF1E39lhckUcckEM"
+         },
+         {
+          "content": {
+           "__typename": "PlaylistResponseWrapper",
+           "data": {
+            "__typename": "Playlist",
+            "attributes": [
+             {
+              "key": "canContainArtists.uris",
+              "value": "spotify:artist:2I8H267eH5va9da4vGt38O,spotify:artist:3f0Mhz0oXmnsnehuEGTrfd,spotify:artist:5FTkkcSCHksqiJqQMPYoH6,spotify:artist:7A2xUGz3Mbq2tJdMfILN34,spotify:artist:1KJ5ZZBncdHtz60i3fiQYu"
+             },
+             {
+              "key": "image_url",
+              "value": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f"
+             },
+             {
+              "key": "header_image_url_desktop",
+              "value": "https://i.scdn.co/image/ab676186000010161fa64f2ae0923e510c9e4cba"
+             },
+             {
+              "key": "madeFor.username",
+              "value": "dannycake"
+             },
+             {
+              "key": "madeFor.displayed",
+              "value": "1"
+             },
+             {
+              "key": "temporary_hack_prefer_linear_playback",
+              "value": "true"
+             },
+             {
+              "key": "should_show_promo_disclosure",
+              "value": "true"
+             },
+             {
+              "key": "send-impression-for-rows",
+              "value": "true"
+             },
+             {
+              "key": "correlation-id",
+              "value": "ssp~065f90a9d908eaa36f48ccdfafd071ea5a73"
+             }
+            ],
+            "content": {
+             "__typename": "PlaylistItemsPage",
+             "totalCount": 50
+            },
+            "description": "Lucy Bedroque, funeral, bronclair and more",
+            "format": "daily-mix",
+            "images": {
+             "items": [
+              {
+               "sources": [
+                {
+                 "height": null,
+                 "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/daily/2/ab6761610000e5eb100cfd4653979ed518fbf28f/en",
+                 "width": null
+                }
+               ]
+              }
+             ]
+            },
+            "name": "Daily Mix 2",
+            "ownerV2": {
+             "data": {
+              "name": "owner",
+              "uri": "spotify:user:owner"
+             }
+            },
+            "uri": "spotify:playlist:37i9dQZF1E35fg4JMDO0BS"
+           }
+          },
+          "data": null,
+          "uri": "spotify:playlist:37i9dQZF1E35fg4JMDO0BS"
+         },
+         {
+          "content": {
+           "__typename": "PlaylistResponseWrapper",
+           "data": {
+            "__typename": "Playlist",
+            "attributes": [
+             {
+              "key": "canContainArtists.uris",
+              "value": "spotify:artist:13xKCVJaX32BL7EN9IOiCM,spotify:artist:2Vcda6Z3Ugbq2ZlYnKGGfC,spotify:artist:5cpCYa1BaBS52GrkmLob1u,spotify:artist:1RyvyyTE3xzB2ZywiAwp0i,spotify:artist:0SL3lfuoRP67mrvkdnwIMA"
+             },
+             {
+              "key": "image_url",
+              "value": "https://i.scdn.co/image/ab6761610000e5eb02bddbeab89ceee7f1874b81"
+             },
+             {
+              "key": "header_image_url_desktop",
+              "value": "https://i.scdn.co/image/ab676186000010165203739179212383f014eba1"
+             },
+             {
+              "key": "madeFor.username",
+              "value": "dannycake"
+             },
+             {
+              "key": "madeFor.displayed",
+              "value": "1"
+             },
+             {
+              "key": "temporary_hack_prefer_linear_playback",
+              "value": "true"
+             },
+             {
+              "key": "should_show_promo_disclosure",
+              "value": "true"
+             },
+             {
+              "key": "send-impression-for-rows",
+              "value": "true"
+             },
+             {
+              "key": "correlation-id",
+              "value": "ssp~065f90a9d908eaa36f48ccdfafd071ea5a73"
+             }
+            ],
+            "content": {
+             "__typename": "PlaylistItemsPage",
+             "totalCount": 50
+            },
+            "description": "venturing, Egobreak, Jades and more",
+            "format": "daily-mix",
+            "images": {
+             "items": [
+              {
+               "sources": [
+                {
+                 "height": null,
+                 "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/daily/3/ab6761610000e5eb02bddbeab89ceee7f1874b81/en",
+                 "width": null
+                }
+               ]
+              }
+             ]
+            },
+            "name": "Daily Mix 3",
+            "ownerV2": {
+             "data": {
+              "name": "owner",
+              "uri": "spotify:user:owner"
+             }
+            },
+            "uri": "spotify:playlist:37i9dQZF1E3abhyNiMl05Y"
+           }
+          },
+          "data": null,
+          "uri": "spotify:playlist:37i9dQZF1E3abhyNiMl05Y"
+         }
+        ],
+        "pagingInfo": {
+         "nextOffset": null
+        },
+        "totalCount": 9
+       },
+       "uri": "spotify:section:0JQ5DAUnp4wcj0bCb3wh3S"
+      },
+      {
+       "data": {
+        "__typename": "HomeGenericSectionData",
+        "headerEntity": {
+         "__typename": "UnknownType"
+        },
+        "subtitle": {
+         "transformedLabel": "",
+         "translatedBaseText": null
+        },
+        "title": {
+         "transformedLabel": "Episodes you might like",
+         "translatedBaseText": "Episodes you might like"
+        }
+       },
+       "sectionItems": {
+        "items": [
+         {
+          "content": {
+           "__typename": "EpisodeOrChapterResponseWrapper",
+           "data": {
+            "__typename": "Episode",
+            "contentRating": {
+             "label": "NONE"
+            },
+            "contents": [],
+            "coverArt": {
+             "sources": [
+              {
+               "height": 64,
+               "url": "https://i.scdn.co/image/ab6765630000f68ddee1f66c882cee83653440f1",
+               "width": 64
+              },
+              {
+               "height": 300,
+               "url": "https://i.scdn.co/image/ab67656300005f1fdee1f66c882cee83653440f1",
+               "width": 300
+              },
+              {
+               "height": 640,
+               "url": "https://i.scdn.co/image/ab6765630000ba8adee1f66c882cee83653440f1",
+               "width": 640
+              }
+             ]
+            },
+            "description": "(description removed)",
+            "duration": {
+             "totalMilliseconds": 3946026
+            },
+            "id": "01N31VBtaWvkMbL2rpiLLr",
+            "mediaTypes": [
+             "VIDEO",
+             "AUDIO"
+            ],
+            "name": "WENDIGANG: The Book of Demons - The Lesser Key of Solomon, Demonology, & Witchcraft",
+            "playability": {
+             "playable": true,
+             "reason": "PLAYABLE"
+            },
+            "playedState": {
+             "playPositionMilliseconds": 0,
+             "state": "NOT_STARTED"
+            },
+            "podcastV2": {
+             "__typename": "PodcastResponseWrapper",
+             "data": {
+              "__typename": "Podcast",
+              "contentRatingV2": {
+               "labels": [
+                "EXPLICIT"
+               ]
+              },
+              "coverArt": {
+               "sources": [
+                {
+                 "height": 64,
+                 "url": "https://i.scdn.co/image/ab6765630000f68ddee1f66c882cee83653440f1",
+                 "width": 64
+                },
+                {
+                 "height": 300,
+                 "url": "https://i.scdn.co/image/ab67656300005f1fdee1f66c882cee83653440f1",
+                 "width": 300
+                },
+                {
+                 "height": 640,
+                 "url": "https://i.scdn.co/image/ab6765630000ba8adee1f66c882cee83653440f1",
+                 "width": 640
+                }
+               ]
+              },
+              "mediaType": "MIXED",
+              "name": "Wendigoon",
+              "publisher": {
+               "name": "Wendigoon"
+              },
+              "uri": "spotify:show:2MDDT1opwKR0NF6upmhKKN"
+             }
+            },
+            "releaseDate": {
+             "isoString": "2026-10-19T20:05:00Z",
+             "precision": "MINUTE"
+            },
+            "restrictions": {
+             "paywallContent": false
+            },
+            "type": "PODCAST_EPISODE",
+            "uri": "spotify:episode:01N31VBtaWvkMbL2rpiLLr",
+            "videoPreviewThumbnail": {
+             "__typename": "VideoThumbnailImage",
+             "imagePreview": {
+              "data": {
+               "__typename": "ImageV2",
+               "sources": [
+                {
+                 "imageFormat": "WEBP",
+                 "maxHeight": 720,
+                 "maxWidth": 1280,
+                 "url": "https://image-cdn-fa.spotifycdn.com/image/ab6772ab000030aebdfe0d5b395d733d321a3416"
+                },
+                {
+                 "imageFormat": "WEBP",
+                 "maxHeight": 360,
+                 "maxWidth": 640,
+                 "url": "https://image-cdn-fa.spotifycdn.com/image/ab6772ab0000e0e7bdfe0d5b395d733d321a3416"
+                }
+               ]
+              }
+             }
+            },
+            "visualIdentity": {
+             "squareCoverImage": {
+              "__typename": "VisualIdentityImage",
+              "extractedColorSet": {
+               "encoreBaseSetTextColor": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 156,
+                "red": 238
+               },
+               "highContrast": {
+                "backgroundBase": {
+                 "alpha": 255,
+                 "blue": 166,
+                 "green": 0,
+                 "red": 130
+                },
+                "backgroundTintedBase": {
+                 "alpha": 255,
+                 "blue": 104,
+                 "green": 0,
+                 "red": 78
+                },
+                "textBase": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textBrightAccent": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textSubdued": {
+                 "alpha": 255,
+                 "blue": 253,
+                 "green": 189,
+                 "red": 235
+                }
+               },
+               "higherContrast": {
+                "backgroundBase": {
+                 "alpha": 255,
+                 "blue": 109,
+                 "green": 0,
+                 "red": 82
+                },
+                "backgroundTintedBase": {
+                 "alpha": 255,
+                 "blue": 152,
+                 "green": 53,
+                 "red": 122
+                },
+                "textBase": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textBrightAccent": {
+                 "alpha": 255,
+                 "blue": 96,
+                 "green": 215,
+                 "red": 30
+                },
+                "textSubdued": {
+                 "alpha": 255,
+                 "blue": 253,
+                 "green": 189,
+                 "red": 235
+                }
+               },
+               "minContrast": {
+                "backgroundBase": {
+                 "alpha": 255,
+                 "blue": 248,
+                 "green": 40,
+                 "red": 200
+                },
+                "backgroundTintedBase": {
+                 "alpha": 255,
+                 "blue": 205,
+                 "green": 0,
+                 "red": 161
+                },
+                "textBase": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textBrightAccent": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textSubdued": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                }
+               }
+              }
+             }
+            }
+           }
+          },
+          "data": {
+           "__typename": "HomeRecsItemData"
+          },
+          "uri": "spotify:episode:01N31VBtaWvkMbL2rpiLLr"
+         },
+         {
+          "content": {
+           "__typename": "EpisodeOrChapterResponseWrapper",
+           "data": {
+            "__typename": "Episode",
+            "contentRating": {
+             "label": "NONE"
+            },
+            "contents": [],
+            "coverArt": {
+             "sources": [
+              {
+               "height": 64,
+               "url": "https://i.scdn.co/image/ab6765630000f68d3045970b35d64f513efe760d",
+               "width": 64
+              },
+              {
+               "height": 300,
+               "url": "https://i.scdn.co/image/ab67656300005f1f3045970b35d64f513efe760d",
+               "width": 300
+              },
+              {
+               "height": 640,
+               "url": "https://i.scdn.co/image/ab6765630000ba8a3045970b35d64f513efe760d",
+               "width": 640
+              }
+             ]
+            },
+            "description": "These are some of the most unnerving known cases of lost media on the internet.",
+            "duration": {
+             "totalMilliseconds": 1432405
+            },
+            "id": "3bR1ccp4hqZfGOGivbuvjy",
+            "mediaTypes": [
+             "VIDEO",
+             "AUDIO"
+            ],
+            "name": "6 Most Disturbing Pieces of Lost Media",
+            "playability": {
+             "playable": true,
+             "reason": "PLAYABLE"
+            },
+            "playedState": {
+             "playPositionMilliseconds": 0,
+             "state": "NOT_STARTED"
+            },
+            "podcastV2": {
+             "__typename": "PodcastResponseWrapper",
+             "data": {
+              "__typename": "Podcast",
+              "contentRatingV2": null,
+              "coverArt": {
+               "sources": [
+                {
+                 "height": 64,
+                 "url": "https://i.scdn.co/image/ab6765630000f68d3045970b35d64f513efe760d",
+                 "width": 64
+                },
+                {
+                 "height": 300,
+                 "url": "https://i.scdn.co/image/ab67656300005f1f3045970b35d64f513efe760d",
+                 "width": 300
+                },
+                {
+                 "height": 640,
+                 "url": "https://i.scdn.co/image/ab6765630000ba8a3045970b35d64f513efe760d",
+                 "width": 640
+                }
+               ]
+              },
+              "mediaType": "MIXED",
+              "name": "Chilling Scares",
+              "publisher": {
+               "name": "Chilling Scares"
+              },
+              "uri": "spotify:show:033iZGnzxILEVchZ4EfQ67"
+             }
+            },
+            "releaseDate": {
+             "isoString": "2026-11-05T17:15:00Z",
+             "precision": "MINUTE"
+            },
+            "restrictions": {
+             "paywallContent": false
+            },
+            "type": "PODCAST_EPISODE",
+            "uri": "spotify:episode:3bR1ccp4hqZfGOGivbuvjy",
+            "videoPreviewThumbnail": {
+             "__typename": "VideoThumbnailImage",
+             "imagePreview": {
+              "data": {
+               "__typename": "ImageV2",
+               "sources": [
+                {
+                 "imageFormat": "WEBP",
+                 "maxHeight": 720,
+                 "maxWidth": 1280,
+                 "url": "https://image-cdn-fa.spotifycdn.com/image/ab6772ab000030aeccda37c6c4fcadd1332f744e"
+                },
+                {
+                 "imageFormat": "WEBP",
+                 "maxHeight": 360,
+                 "maxWidth": 640,
+                 "url": "https://image-cdn-fa.spotifycdn.com/image/ab6772ab0000e0e7ccda37c6c4fcadd1332f744e"
+                }
+               ]
+              }
+             }
+            },
+            "visualIdentity": {
+             "squareCoverImage": {
+              "__typename": "VisualIdentityImage",
+              "extractedColorSet": {
+               "encoreBaseSetTextColor": {
+                "alpha": 255,
+                "blue": 142,
+                "green": 163,
+                "red": 255
+               },
+               "highContrast": {
+                "backgroundBase": {
+                 "alpha": 255,
+                 "blue": 0,
+                 "green": 0,
+                 "red": 159
+                },
+                "backgroundTintedBase": {
+                 "alpha": 255,
+                 "blue": 0,
+                 "green": 0,
+                 "red": 97
+                },
+                "textBase": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textBrightAccent": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textSubdued": {
+                 "alpha": 255,
+                 "blue": 174,
+                 "green": 190,
+                 "red": 255
+                }
+               },
+               "higherContrast": {
+                "backgroundBase": {
+                 "alpha": 255,
+                 "blue": 0,
+                 "green": 0,
+                 "red": 101
+                },
+                "backgroundTintedBase": {
+                 "alpha": 255,
+                 "blue": 41,
+                 "green": 52,
+                 "red": 147
+                },
+                "textBase": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textBrightAccent": {
+                 "alpha": 255,
+                 "blue": 96,
+                 "green": 215,
+                 "red": 30
+                },
+                "textSubdued": {
+                 "alpha": 255,
+                 "blue": 174,
+                 "green": 190,
+                 "red": 255
+                }
+               },
+               "minContrast": {
+                "backgroundBase": {
+                 "alpha": 255,
+                 "blue": 24,
+                 "green": 56,
+                 "red": 240
+                },
+                "backgroundTintedBase": {
+                 "alpha": 255,
+                 "blue": 0,
+                 "green": 0,
+                 "red": 201
+                },
+                "textBase": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textBrightAccent": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textSubdued": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                }
+               }
+              }
+             }
+            }
+           }
+          },
+          "data": {
+           "__typename": "HomeRecsItemData"
+          },
+          "uri": "spotify:episode:3bR1ccp4hqZfGOGivbuvjy"
+         },
+         {
+          "content": {
+           "__typename": "EpisodeOrChapterResponseWrapper",
+           "data": {
+            "__typename": "Episode",
+            "contentRating": {
+             "label": "EXPLICIT"
+            },
+            "contents": [],
+            "coverArt": {
+             "sources": [
+              {
+               "height": 64,
+               "url": "https://i.scdn.co/image/ab6765630000f68dfdafdd1bc590c667fa7fc4eb",
+               "width": 64
+              },
+              {
+               "height": 300,
+               "url": "https://i.scdn.co/image/ab67656300005f1ffdafdd1bc590c667fa7fc4eb",
+               "width": 300
+              },
+              {
+               "height": 640,
+               "url": "https://i.scdn.co/image/ab6765630000ba8afdafdd1bc590c667fa7fc4eb",
+               "width": 640
+              }
+             ]
+            },
+            "description": "(description removed)",
+            "duration": {
+             "totalMilliseconds": 4443936
+            },
+            "id": "1kHCfhN5jjP9a2uFcrP822",
+            "mediaTypes": [
+             "AUDIO"
+            ],
+            "name": "THE RESULTS ARE IN | Ep.087 Lemonade Stand 🍋",
+            "playability": {
+             "playable": true,
+             "reason": "PLAYABLE"
+            },
+            "playedState": {
+             "playPositionMilliseconds": 0,
+             "state": "NOT_STARTED"
+            },
+            "podcastV2": {
+             "__typename": "PodcastResponseWrapper",
+             "data": {
+              "__typename": "Podcast",
+              "contentRatingV2": {
+               "labels": [
+                "EXPLICIT"
+               ]
+              },
+              "coverArt": {
+               "sources": [
+                {
+                 "height": 64,
+                 "url": "https://i.scdn.co/image/ab6765630000f68d2752b14703c5a8a251dc38e7",
+                 "width": 64
+                },
+                {
+                 "height": 300,
+                 "url": "https://i.scdn.co/image/ab67656300005f1f2752b14703c5a8a251dc38e7",
+                 "width": 300
+                },
+                {
+                 "height": 640,
+                 "url": "https://i.scdn.co/image/ab6765630000ba8a2752b14703c5a8a251dc38e7",
+                 "width": 640
+                }
+               ]
+              },
+              "mediaType": "AUDIO",
+              "name": "Lemonade Stand",
+              "publisher": {
+               "name": "Vox Media Podcast Network"
+              },
+              "uri": "spotify:show:0Yz44z9z3t8VQu4WRmsrs6"
+             }
+            },
+            "releaseDate": {
+             "isoString": "2026-11-05T20:00:00Z",
+             "precision": "MINUTE"
+            },
+            "restrictions": {
+             "paywallContent": false
+            },
+            "type": "PODCAST_EPISODE",
+            "uri": "spotify:episode:1kHCfhN5jjP9a2uFcrP822",
+            "videoPreviewThumbnail": null,
+            "visualIdentity": {
+             "squareCoverImage": {
+              "__typename": "VisualIdentityImage",
+              "extractedColorSet": {
+               "encoreBaseSetTextColor": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 191,
+                "red": 132
+               },
+               "highContrast": {
+                "backgroundBase": {
+                 "alpha": 255,
+                 "blue": 171,
+                 "green": 77,
+                 "red": 0
+                },
+                "backgroundTintedBase": {
+                 "alpha": 255,
+                 "blue": 129,
+                 "green": 36,
+                 "red": 0
+                },
+                "textBase": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textBrightAccent": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textSubdued": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 210,
+                 "red": 165
+                }
+               },
+               "higherContrast": {
+                "backgroundBase": {
+                 "alpha": 255,
+                 "blue": 133,
+                 "green": 40,
+                 "red": 0
+                },
+                "backgroundTintedBase": {
+                 "alpha": 255,
+                 "blue": 174,
+                 "green": 79,
+                 "red": 34
+                },
+                "textBase": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textBrightAccent": {
+                 "alpha": 255,
+                 "blue": 96,
+                 "green": 215,
+                 "red": 30
+                },
+                "textSubdued": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 210,
+                 "red": 165
+                }
+               },
+               "minContrast": {
+                "backgroundBase": {
+                 "alpha": 255,
+                 "blue": 192,
+                 "green": 96,
+                 "red": 0
+                },
+                "backgroundTintedBase": {
+                 "alpha": 255,
+                 "blue": 155,
+                 "green": 62,
+                 "red": 0
+                },
+                "textBase": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textBrightAccent": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                },
+                "textSubdued": {
+                 "alpha": 255,
+                 "blue": 255,
+                 "green": 255,
+                 "red": 255
+                }
+               }
+              }
+             }
+            }
+           }
+          },
+          "data": {
+           "__typename": "HomeRecsItemData"
+          },
+          "uri": "spotify:episode:1kHCfhN5jjP9a2uFcrP822"
+         }
+        ],
+        "pagingInfo": {
+         "nextOffset": 10
+        },
+        "totalCount": 80
+       },
+       "uri": "spotify:section:0JQ5DAnM3wGh0gz1MXnuhz"
+      },
+      {
+       "data": {
+        "__typename": "HomeGenericSectionData",
+        "headerEntity": {
+         "__typename": "ArtistResponseWrapper",
+         "_uri": "spotify:artist:2I8H267eH5va9da4vGt38O",
+         "data": {
+          "__typename": "Artist",
+          "profile": {
+           "name": "Lucy Bedroque"
+          },
+          "uri": "spotify:artist:2I8H267eH5va9da4vGt38O",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb100cfd4653979ed518fbf28f",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178100cfd4653979ed518fbf28f",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174100cfd4653979ed518fbf28f",
+              "width": 320
+             }
+            ]
+           }
+          }
+         }
+        },
+        "subtitle": {
+         "transformedLabel": "",
+         "translatedBaseText": null
+        },
+        "title": {
+         "transformedLabel": "More like Lucy Bedroque",
+         "translatedBaseText": "More like {0}"
+        }
+       },
+       "sectionItems": {
+        "items": [
+         {
+          "content": {
+           "__typename": "ArtistResponseWrapper",
+           "data": {
+            "__typename": "Artist",
+            "profile": {
+             "name": "lostrushi"
+            },
+            "uri": "spotify:artist:5Q2SPodgRF5DgI5Vs8y0Ve",
+            "visuals": {
+             "avatarImage": {
+              "sources": [
+               {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6761610000e5eb19017427439d9ccb50432f4a",
+                "width": 640
+               },
+               {
+                "height": 160,
+                "url": "https://i.scdn.co/image/ab6761610000f17819017427439d9ccb50432f4a",
+                "width": 160
+               },
+               {
+                "height": 320,
+                "url": "https://i.scdn.co/image/ab6761610000517419017427439d9ccb50432f4a",
+                "width": 320
+               }
+              ]
+             }
+            }
+           }
+          },
+          "data": null,
+          "uri": "spotify:artist:5Q2SPodgRF5DgI5Vs8y0Ve"
+         },
+         {
+          "content": {
+           "__typename": "AlbumResponseWrapper",
+           "data": {
+            "__typename": "Album",
+            "artists": {
+             "items": [
+              {
+               "profile": {
+                "name": "Slump Audios"
+               },
+               "uri": "spotify:artist:0kV5IPIp3Q8eksQ5R9q3hE"
+              }
+             ]
+            },
+            "coverArt": {
+             "sources": [
+              {
+               "height": 300,
+               "url": "https://i.scdn.co/image/ab67616d00001e027e6ce019eb0f668cb8cfa59a",
+               "width": 300
+              },
+              {
+               "height": 64,
+               "url": "https://i.scdn.co/image/ab67616d000048517e6ce019eb0f668cb8cfa59a",
+               "width": 64
+              },
+              {
+               "height": 640,
+               "url": "https://i.scdn.co/image/ab67616d0000b2737e6ce019eb0f668cb8cfa59a",
+               "width": 640
+              }
+             ]
+            },
+            "isPreRelease": false,
+            "name": "medulla",
+            "playability": {
+             "playable": true,
+             "reason": "PLAYABLE"
+            },
+            "preReleaseEndDateTime": null,
+            "albumType": "SINGLE",
+            "uri": "spotify:album:7I11SPG8E2pZos5oc3dwqj"
+           }
+          },
+          "data": null,
+          "uri": "spotify:album:7I11SPG8E2pZos5oc3dwqj"
+         },
+         {
+          "content": {
+           "__typename": "ArtistResponseWrapper",
+           "data": {
+            "__typename": "Artist",
+            "profile": {
+             "name": "Egobreak"
+            },
+            "uri": "spotify:artist:2Vcda6Z3Ugbq2ZlYnKGGfC",
+            "visuals": {
+             "avatarImage": {
+              "sources": [
+               {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab6761610000e5eb3eeca66375535d122e322b5d",
+                "width": 640
+               },
+               {
+                "height": 160,
+                "url": "https://i.scdn.co/image/ab6761610000f1783eeca66375535d122e322b5d",
+                "width": 160
+               },
+               {
+                "height": 320,
+                "url": "https://i.scdn.co/image/ab676161000051743eeca66375535d122e322b5d",
+                "width": 320
+               }
+              ]
+             }
+            }
+           }
+          },
+          "data": null,
+          "uri": "spotify:artist:2Vcda6Z3Ugbq2ZlYnKGGfC"
+         }
+        ],
+        "pagingInfo": {
+         "nextOffset": 10
+        },
+        "totalCount": 23
+       },
+       "uri": "spotify:section:0JQ5DAnM3wGh0gz1MXnu5z"
+      }
+     ],
+     "totalCount": 31
+    },
+    "uri": "spotify:page:0JQ5DAozXW0GUBAKjHsifH"
+   },
+   "homeChips": [
+    {
+     "highlightColor": null,
+     "highlightScheme": null,
+     "id": "music-chip",
+     "label": {
+      "transformedLabel": "Music",
+      "translatedBaseText": "Music"
+     },
+     "subChips": []
+    },
+    {
+     "highlightColor": null,
+     "highlightScheme": null,
+     "id": "podcasts-chip",
+     "label": {
+      "transformedLabel": "Podcasts",
+      "translatedBaseText": "Podcasts"
+     },
+     "subChips": []
+    },
+    {
+     "highlightColor": null,
+     "highlightScheme": null,
+     "id": "audiobooks-chip",
+     "label": {
+      "transformedLabel": "Audiobooks",
+      "translatedBaseText": "Audiobooks"
+     },
+     "subChips": []
+    }
+   ]
+  }
+ },
+ "extensions": {
+  "responseIds": {
+   "/home": {
+    "continuum": "e2a67f9a-e826-71fe-4928-c2d4cce96a24"
+   }
+  }
+ }
+}

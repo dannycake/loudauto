@@ -1,0 +1,58 @@
+{
+ "lyrics": {
+  "syncType": "LINE_SYNCED",
+  "lines": [
+   {
+    "startTimeMs": "2850",
+    "words": "You're just jealous",
+    "syllables": [],
+    "endTimeMs": "0",
+    "transliteratedWords": ""
+   },
+   {
+    "startTimeMs": "5300",
+    "words": "Jealous? Jealous?",
+    "syllables": [],
+    "endTimeMs": "0",
+    "transliteratedWords": ""
+   },
+   {
+    "startTimeMs": "10660",
+    "words": "You don't even e-",
+    "syllables": [],
+    "endTimeMs": "0",
+    "transliteratedWords": ""
+   },
+   {
+    "startTimeMs": "13790",
+    "words": "♪",
+    "syllables": [],
+    "endTimeMs": "0",
+    "transliteratedWords": ""
+   },
+   {
+    "startTimeMs": "24100",
+    "words": "Unseen forces, they been spreading me thin",
+    "syllables": [],
+    "endTimeMs": "0",
+    "transliteratedWords": ""
+   }
+  ],
+  "provider": "MusixMatch",
+  "providerLyricsId": "198487205",
+  "providerDisplayName": "Musixmatch",
+  "syncLyricsUri": "",
+  "isDenseTypeface": false,
+  "alternatives": [],
+  "language": "en",
+  "isRtlLanguage": false,
+  "capStatus": "NONE",
+  "translationLanguages": []
+ },
+ "colors": {
+  "background": -4106240,
+  "text": -16777216,
+  "highlightText": -1
+ },
+ "hasVocalRemoval": false
+}

@@ -1,0 +1,25 @@
+[package]
+name = "spot-cli"
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+description = "Command-line proof of spot-core against a live Spotify account"
+
+[[bin]]
+name = "loudauto-cli"
+path = "src/main.rs"
+
+[dependencies]
+spot-core.workspace = true
+engine.workspace = true
+engine-ipc.workspace = true
+playback.workspace = true
+clap.workspace = true
+env_logger.workspace = true
+log.workspace = true
+async-trait.workspace = true
+tokio.workspace = true
+
+[dev-dependencies]
+tempfile.workspace = true

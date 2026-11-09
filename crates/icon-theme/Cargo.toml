@@ -1,0 +1,13 @@
+[package]
+name = "icon-theme"
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+description = "Which icon LOUDAUTO shows, resolved against the active freedesktop icon theme (the engine's tray and notifications, the window's icon)"
+
+[dependencies]
+log.workspace = true
+
+[dev-dependencies]
+tempfile.workspace = true

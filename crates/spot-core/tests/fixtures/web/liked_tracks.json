@@ -1,0 +1,252 @@
+{
+ "data": {
+  "me": {
+   "library": {
+    "tracks": {
+     "__typename": "UserLibraryTrackPage",
+     "items": [
+      {
+       "__typename": "UserLibraryTrackResponse",
+       "addedAt": {
+        "isoString": "2026-11-03T04:51:13Z"
+       },
+       "track": {
+        "_uri": "spotify:track:1XD4K4CGAKTIBmFpvuaFru",
+        "data": {
+         "__typename": "Track",
+         "albumOfTrack": {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Jane Remover"
+             },
+             "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02ab0d83b752dcf9f2a7ddd51b",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851ab0d83b752dcf9f2a7ddd51b",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+             "width": 640
+            }
+           ]
+          },
+          "name": "Revengeseekerz",
+          "uri": "spotify:album:21b4cDNse2AMpj94ykfuON"
+         },
+         "artists": {
+          "items": [
+           {
+            "profile": {
+             "name": "Jane Remover"
+            },
+            "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+           }
+          ]
+         },
+         "associationsV3": {
+          "audioAssociations": {
+           "totalCount": 0
+          },
+          "videoAssociations": {
+           "totalCount": 0
+          }
+         },
+         "contentRating": {
+          "label": "EXPLICIT"
+         },
+         "discNumber": 1,
+         "duration": {
+          "totalMilliseconds": 230526
+         },
+         "mediaType": "AUDIO",
+         "name": "Dancing with your eyes closed",
+         "playability": {
+          "playable": true
+         },
+         "trackNumber": 8
+        }
+       }
+      },
+      {
+       "__typename": "UserLibraryTrackResponse",
+       "addedAt": {
+        "isoString": "2026-10-31T14:51:42Z"
+       },
+       "track": {
+        "_uri": "spotify:track:3I4ryyC88EltQh67H5WY0i",
+        "data": {
+         "__typename": "Track",
+         "albumOfTrack": {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Lucy Bedroque"
+             },
+             "uri": "spotify:artist:2I8H267eH5va9da4vGt38O"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02ee2648cc133c8719bd03de6a",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851ee2648cc133c8719bd03de6a",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273ee2648cc133c8719bd03de6a",
+             "width": 640
+            }
+           ]
+          },
+          "name": "SPEED DEMON / I KNOW (MY INFLUENCE)",
+          "uri": "spotify:album:6tvaFPqqWY0KoTvQbNuqks"
+         },
+         "artists": {
+          "items": [
+           {
+            "profile": {
+             "name": "Lucy Bedroque"
+            },
+            "uri": "spotify:artist:2I8H267eH5va9da4vGt38O"
+           }
+          ]
+         },
+         "associationsV3": {
+          "audioAssociations": {
+           "totalCount": 0
+          },
+          "videoAssociations": {
+           "totalCount": 0
+          }
+         },
+         "contentRating": {
+          "label": "EXPLICIT"
+         },
+         "discNumber": 1,
+         "duration": {
+          "totalMilliseconds": 242639
+         },
+         "mediaType": "AUDIO",
+         "name": "I KNOW (MY INFLUENCE)",
+         "playability": {
+          "playable": true
+         },
+         "trackNumber": 2
+        }
+       }
+      },
+      {
+       "__typename": "UserLibraryTrackResponse",
+       "addedAt": {
+        "isoString": "2026-10-31T14:13:06Z"
+       },
+       "track": {
+        "_uri": "spotify:track:1NYRkODZfOLqMeHhi1HgGO",
+        "data": {
+         "__typename": "Track",
+         "albumOfTrack": {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Egobreak"
+             },
+             "uri": "spotify:artist:2Vcda6Z3Ugbq2ZlYnKGGfC"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e022cd671d8008d3a7572e326ff",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048512cd671d8008d3a7572e326ff",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2732cd671d8008d3a7572e326ff",
+             "width": 640
+            }
+           ]
+          },
+          "name": "turning point (feat. Lucy Bedroque)",
+          "uri": "spotify:album:4cEoURtnbS0oR2alf3wI1o"
+         },
+         "artists": {
+          "items": [
+           {
+            "profile": {
+             "name": "Egobreak"
+            },
+            "uri": "spotify:artist:2Vcda6Z3Ugbq2ZlYnKGGfC"
+           },
+           {
+            "profile": {
+             "name": "Lucy Bedroque"
+            },
+            "uri": "spotify:artist:2I8H267eH5va9da4vGt38O"
+           }
+          ]
+         },
+         "associationsV3": {
+          "audioAssociations": {
+           "totalCount": 0
+          },
+          "videoAssociations": {
+           "totalCount": 0
+          }
+         },
+         "contentRating": {
+          "label": "EXPLICIT"
+         },
+         "discNumber": 1,
+         "duration": {
+          "totalMilliseconds": 145442
+         },
+         "mediaType": "AUDIO",
+         "name": "turning point (feat. Lucy Bedroque)",
+         "playability": {
+          "playable": true
+         },
+         "trackNumber": 1
+        }
+       }
+      }
+     ],
+     "pagingInfo": {
+      "limit": 50,
+      "offset": 0
+     },
+     "totalCount": 758
+    }
+   }
+  }
+ }
+}

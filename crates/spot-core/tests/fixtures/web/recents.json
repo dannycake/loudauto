@@ -1,0 +1,490 @@
+{
+ "data": {
+  "lists": [
+   {
+    "__typename": "List",
+    "description": "Data source for Recents",
+    "formatListAttributes": [
+     {
+      "key": "revision_hash",
+      "value": "0000000000000000b5c848b72c48cd0ab75761929cffbe85"
+     },
+     {
+      "key": "filters",
+      "value": "CgYIARICAgE="
+     }
+    ],
+    "items": {
+     "items": [
+      {
+       "addedAt": {
+        "day": 6,
+        "month": 11,
+        "year": 2026
+       },
+       "entity": {
+        "__typename": "EntityResponseWrapper",
+        "_uri": "spotify:collection:tracks",
+        "data": {
+         "__typename": "Entity",
+         "consumptionExperienceTrait": {
+          "__typename": "NotFound"
+         },
+         "entityTypeTrait": {
+          "__typename": "EntityTypeTrait",
+          "type": "ENTITY_TYPE_PLAYLIST"
+         },
+         "identityTrait": {
+          "__typename": "IdentityTrait",
+          "contentHierarchyParent": null,
+          "contributors": {
+           "items": [
+            {
+             "name": "dannycake",
+             "uri": "spotify:user:0uaktefav92xfmbx26j1narmh"
+            }
+           ],
+           "totalCount": 1
+          },
+          "description": "",
+          "name": "Liked Songs",
+          "type": "Playlist"
+         },
+         "typedEntity": {
+          "__typename": "UnknownType"
+         },
+         "uri": "spotify:collection:tracks",
+         "visualIdentityTrait": {
+          "__typename": "VisualIdentityTrait",
+          "squareCoverImage": {
+           "image": {
+            "data": {
+             "__typename": "ImageV2",
+             "sources": [
+              {
+               "imageFormat": "JPEG",
+               "maxHeight": 0,
+               "maxWidth": 0,
+               "url": "https://misc.scdn.co/liked-songs/liked-songs-300.png"
+              }
+             ]
+            }
+           },
+           "originalInstances": [
+            {
+             "flatFile": {
+              "cdnUrl": "https://misc.scdn.co/liked-songs/liked-songs-300.png"
+             },
+             "size": "IMAGE_SIZE_DEFAULT"
+            },
+            {
+             "flatFile": {
+              "cdnUrl": "https://misc.scdn.co/liked-songs/liked-songs-640.png"
+             },
+             "size": "IMAGE_SIZE_XLARGE"
+            }
+           ]
+          }
+         }
+        }
+       },
+       "formatListAttributes": [
+        {
+         "key": "group_id_0",
+         "value": ""
+        },
+        {
+         "key": "children_group_id",
+         "value": "1"
+        },
+        {
+         "key": "group_metadata",
+         "value": "CB8SJHNwb3RpZnk6dHJhY2s6NXUwZU5BcDhyaVVLeWdhTEpUZTVZQhIkc3BvdGlmeTp0cmFjazo0ODNPbzk5Rk5Pdno2MEl0eWQyR1lBEiRzcG90aWZ5OnRyYWNrOjVSdHhYdW5tNmNtWkZLQU1iNERZekgiCQoFbXVzaWMQHw=="
+        },
+        {
+         "key": "recent_type_played",
+         "value": ""
+        },
+        {
+         "key": "content_type_music",
+         "value": ""
+        }
+       ]
+      },
+      {
+       "addedAt": {
+        "day": 6,
+        "month": 11,
+        "year": 2026
+       },
+       "entity": {
+        "__typename": "EntityResponseWrapper",
+        "_uri": "spotify:track:5u0eNAp8riUKygaLJTe5YB",
+        "data": {
+         "__typename": "Entity",
+         "consumptionExperienceTrait": {
+          "__typename": "ConsumptionExperienceTrait",
+          "contentRatings": [],
+          "duration": {
+           "nanoSeconds": 0,
+           "seconds": 175
+          },
+          "formats": [
+           "FORMAT_AUDIO",
+           "FORMAT_LOSSLESS"
+          ]
+         },
+         "entityTypeTrait": {
+          "__typename": "EntityTypeTrait",
+          "type": "ENTITY_TYPE_TRACK"
+         },
+         "identityTrait": {
+          "__typename": "IdentityTrait",
+          "contentHierarchyParent": {
+           "__typename": "Entity",
+           "identityTrait": {
+            "__typename": "IdentityTrait",
+            "name": "star"
+           },
+           "uri": "spotify:album:1HjSoAhxhq4RtappX15Xt7"
+          },
+          "contributors": {
+           "items": [
+            {
+             "name": "2hollis",
+             "uri": "spotify:artist:72NhFAGG5Pt91VbheJeEPG"
+            }
+           ],
+           "totalCount": 1
+          },
+          "description": "",
+          "name": "nerve",
+          "type": "Song"
+         },
+         "typedEntity": {
+          "__typename": "TrackResponseWrapper"
+         },
+         "uri": "spotify:track:5u0eNAp8riUKygaLJTe5YB",
+         "visualIdentityTrait": {
+          "__typename": "VisualIdentityTrait",
+          "squareCoverImage": {
+           "image": {
+            "data": {
+             "__typename": "ImageV2",
+             "sources": [
+              {
+               "imageFormat": "WEBP",
+               "maxHeight": 640,
+               "maxWidth": 640,
+               "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000075a09381559182855f08996018ee"
+              },
+              {
+               "imageFormat": "WEBP",
+               "maxHeight": 64,
+               "maxWidth": 64,
+               "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000090d59381559182855f08996018ee"
+              },
+              {
+               "imageFormat": "WEBP",
+               "maxHeight": 300,
+               "maxWidth": 300,
+               "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000ab879381559182855f08996018ee"
+              }
+             ]
+            }
+           },
+           "originalInstances": [
+            {
+             "flatFile": {
+              "cdnUrl": "https://i.scdn.co/image/ab67616d000048519381559182855f08996018ee"
+             },
+             "size": "IMAGE_SIZE_SMALL"
+            },
+            {
+             "flatFile": {
+              "cdnUrl": "https://i.scdn.co/image/ab67616d00001e029381559182855f08996018ee"
+             },
+             "size": "IMAGE_SIZE_DEFAULT"
+            },
+            {
+             "flatFile": {
+              "cdnUrl": "https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee"
+             },
+             "size": "IMAGE_SIZE_LARGE"
+            }
+           ]
+          }
+         }
+        }
+       },
+       "formatListAttributes": [
+        {
+         "key": "group_id_1",
+         "value": ""
+        },
+        {
+         "key": "recent_type_played",
+         "value": ""
+        },
+        {
+         "key": "content_type_music",
+         "value": ""
+        }
+       ]
+      },
+      {
+       "addedAt": {
+        "day": 6,
+        "month": 11,
+        "year": 2026
+       },
+       "entity": {
+        "__typename": "EntityResponseWrapper",
+        "_uri": "spotify:track:483Oo99FNOvz60Ityd2GYA",
+        "data": {
+         "__typename": "Entity",
+         "consumptionExperienceTrait": {
+          "__typename": "ConsumptionExperienceTrait",
+          "contentRatings": [],
+          "duration": {
+           "nanoSeconds": 0,
+           "seconds": 129
+          },
+          "formats": [
+           "FORMAT_AUDIO",
+           "FORMAT_LOSSLESS"
+          ]
+         },
+         "entityTypeTrait": {
+          "__typename": "EntityTypeTrait",
+          "type": "ENTITY_TYPE_TRACK"
+         },
+         "identityTrait": {
+          "__typename": "IdentityTrait",
+          "contentHierarchyParent": {
+           "__typename": "Entity",
+           "identityTrait": {
+            "__typename": "IdentityTrait",
+            "name": "GUT CHASM"
+           },
+           "uri": "spotify:album:4C3ul5cSvjRlY4BfibIi3u"
+          },
+          "contributors": {
+           "items": [
+            {
+             "name": "awerewa",
+             "uri": "spotify:artist:7c6aZP4Zi0c7CK5M2H6FwB"
+            }
+           ],
+           "totalCount": 1
+          },
+          "description": "",
+          "name": "GUT CHASM",
+          "type": "Song"
+         },
+         "typedEntity": {
+          "__typename": "TrackResponseWrapper"
+         },
+         "uri": "spotify:track:483Oo99FNOvz60Ityd2GYA",
+         "visualIdentityTrait": {
+          "__typename": "VisualIdentityTrait",
+          "squareCoverImage": {
+           "image": {
+            "data": {
+             "__typename": "ImageV2",
+             "sources": [
+              {
+               "imageFormat": "WEBP",
+               "maxHeight": 640,
+               "maxWidth": 640,
+               "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000075a081c297c9a312bd04c774ed5f"
+              },
+              {
+               "imageFormat": "WEBP",
+               "maxHeight": 64,
+               "maxWidth": 64,
+               "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000090d581c297c9a312bd04c774ed5f"
+              },
+              {
+               "imageFormat": "WEBP",
+               "maxHeight": 300,
+               "maxWidth": 300,
+               "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000ab8781c297c9a312bd04c774ed5f"
+              }
+             ]
+            }
+           },
+           "originalInstances": [
+            {
+             "flatFile": {
+              "cdnUrl": "https://i.scdn.co/image/ab67616d0000485181c297c9a312bd04c774ed5f"
+             },
+             "size": "IMAGE_SIZE_SMALL"
+            },
+            {
+             "flatFile": {
+              "cdnUrl": "https://i.scdn.co/image/ab67616d00001e0281c297c9a312bd04c774ed5f"
+             },
+             "size": "IMAGE_SIZE_DEFAULT"
+            },
+            {
+             "flatFile": {
+              "cdnUrl": "https://i.scdn.co/image/ab67616d0000b27381c297c9a312bd04c774ed5f"
+             },
+             "size": "IMAGE_SIZE_LARGE"
+            }
+           ]
+          }
+         }
+        }
+       },
+       "formatListAttributes": [
+        {
+         "key": "group_id_1",
+         "value": ""
+        },
+        {
+         "key": "recent_type_played",
+         "value": ""
+        },
+        {
+         "key": "content_type_music",
+         "value": ""
+        }
+       ]
+      },
+      {
+       "addedAt": {
+        "day": 6,
+        "month": 11,
+        "year": 2026
+       },
+       "entity": {
+        "__typename": "EntityResponseWrapper",
+        "_uri": "spotify:track:5RtxXunm6cmZFKAMb4DYzH",
+        "data": {
+         "__typename": "Entity",
+         "consumptionExperienceTrait": {
+          "__typename": "ConsumptionExperienceTrait",
+          "contentRatings": [],
+          "duration": {
+           "nanoSeconds": 0,
+           "seconds": 201
+          },
+          "formats": [
+           "FORMAT_AUDIO",
+           "FORMAT_LOSSLESS"
+          ]
+         },
+         "entityTypeTrait": {
+          "__typename": "EntityTypeTrait",
+          "type": "ENTITY_TYPE_TRACK"
+         },
+         "identityTrait": {
+          "__typename": "IdentityTrait",
+          "contentHierarchyParent": {
+           "__typename": "Entity",
+           "identityTrait": {
+            "__typename": "IdentityTrait",
+            "name": "ON THE WIR3"
+           },
+           "uri": "spotify:album:7dtIep6h9RryEAtQ80jAkz"
+          },
+          "contributors": {
+           "items": [
+            {
+             "name": "BONESAW",
+             "uri": "spotify:artist:5gptX6SjbtYtRRMB9Vz1ew"
+            }
+           ],
+           "totalCount": 1
+          },
+          "description": "",
+          "name": "ON THE WIR3",
+          "type": "Song"
+         },
+         "typedEntity": {
+          "__typename": "TrackResponseWrapper"
+         },
+         "uri": "spotify:track:5RtxXunm6cmZFKAMb4DYzH",
+         "visualIdentityTrait": {
+          "__typename": "VisualIdentityTrait",
+          "squareCoverImage": {
+           "image": {
+            "data": {
+             "__typename": "ImageV2",
+             "sources": [
+              {
+               "imageFormat": "WEBP",
+               "maxHeight": 640,
+               "maxWidth": 640,
+               "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000075a0c3fc7071f3ccd97156cfcaa1"
+              },
+              {
+               "imageFormat": "WEBP",
+               "maxHeight": 64,
+               "maxWidth": 64,
+               "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000090d5c3fc7071f3ccd97156cfcaa1"
+              },
+              {
+               "imageFormat": "WEBP",
+               "maxHeight": 300,
+               "maxWidth": 300,
+               "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000ab87c3fc7071f3ccd97156cfcaa1"
+              }
+             ]
+            }
+           },
+           "originalInstances": [
+            {
+             "flatFile": {
+              "cdnUrl": "https://i.scdn.co/image/ab67616d00004851c3fc7071f3ccd97156cfcaa1"
+             },
+             "size": "IMAGE_SIZE_SMALL"
+            },
+            {
+             "flatFile": {
+              "cdnUrl": "https://i.scdn.co/image/ab67616d00001e02c3fc7071f3ccd97156cfcaa1"
+             },
+             "size": "IMAGE_SIZE_DEFAULT"
+            },
+            {
+             "flatFile": {
+              "cdnUrl": "https://i.scdn.co/image/ab67616d0000b273c3fc7071f3ccd97156cfcaa1"
+             },
+             "size": "IMAGE_SIZE_LARGE"
+            }
+           ]
+          }
+         }
+        }
+       },
+       "formatListAttributes": [
+        {
+         "key": "group_id_1",
+         "value": ""
+        },
+        {
+         "key": "recent_type_played",
+         "value": ""
+        },
+        {
+         "key": "content_type_music",
+         "value": ""
+        }
+       ]
+      }
+     ],
+     "pagingInfo": {
+      "limit": 20,
+      "nextOffset": 20,
+      "offset": 0
+     },
+     "totalCount": 1280
+    },
+    "name": "Recents",
+    "uri": "spotify:list:recents:page"
+   }
+  ]
+ }
+}

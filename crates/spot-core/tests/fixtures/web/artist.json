@@ -1,0 +1,979 @@
+{
+ "data": {
+  "artistUnion": {
+   "__typename": "Artist",
+   "discography": {
+    "albums": {
+     "items": [
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "2025 deadAir",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02ab0d83b752dcf9f2a7ddd51b",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851ab0d83b752dcf9f2a7ddd51b",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 4,
+           "month": 4,
+           "precision": "DAY",
+           "year": 2025
+          },
+          "id": "21b4cDNse2AMpj94ykfuON",
+          "label": "deadAir",
+          "name": "Revengeseekerz",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "tracks": {
+           "totalCount": 12
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:21b4cDNse2AMpj94ykfuON"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "2023 deadAir",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e028a821784ac3e69e691d4945f",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048518a821784ac3e69e691d4945f",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2738a821784ac3e69e691d4945f",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 20,
+           "month": 10,
+           "precision": "DAY",
+           "year": 2023
+          },
+          "id": "0rsCXQ9QyrLaTc2a5fvsZR",
+          "label": "deadAir",
+          "name": "Census Designated",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "tracks": {
+           "totalCount": 10
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:0rsCXQ9QyrLaTc2a5fvsZR"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "2021 deadAir",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02357b1f848cf2a05d21e77db4",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851357b1f848cf2a05d21e77db4",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273357b1f848cf2a05d21e77db4",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 12,
+           "month": 11,
+           "precision": "DAY",
+           "year": 2021
+          },
+          "id": "6rO7DlLYSHabzSsD7Gpe14",
+          "label": "deadAir",
+          "name": "Frailty",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "tracks": {
+           "totalCount": 13
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:6rO7DlLYSHabzSsD7Gpe14"
+         }
+        ]
+       }
+      }
+     ],
+     "totalCount": 4
+    },
+    "compilations": {
+     "items": [],
+     "totalCount": 0
+    },
+    "latest": {
+     "copyright": {
+      "items": [
+       {
+        "text": "© 2026 deadAir",
+        "type": "C"
+       },
+       {
+        "text": "℗ 2026 deadAir",
+        "type": "P"
+       }
+      ]
+     },
+     "coverArt": {
+      "sources": [
+       {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0225920ac69f3ad8a4b6065167",
+        "width": 300
+       },
+       {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485125920ac69f3ad8a4b6065167",
+        "width": 64
+       },
+       {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27325920ac69f3ad8a4b6065167",
+        "width": 640
+       }
+      ]
+     },
+     "date": {
+      "day": 23,
+      "month": 9,
+      "precision": "DAY",
+      "year": 2026
+     },
+     "id": "3xI4q1yRS4Vr1wMkQxlQjj",
+     "label": "deadAir",
+     "name": "Beauty Sleep",
+     "playability": {
+      "playable": true,
+      "reason": "PLAYABLE"
+     },
+     "tracks": {
+      "totalCount": 1
+     },
+     "type": "SINGLE",
+     "uri": "spotify:album:3xI4q1yRS4Vr1wMkQxlQjj"
+    },
+    "popularReleasesAlbums": {
+     "items": [
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "2025 deadAir",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ab0d83b752dcf9f2a7ddd51b",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ab0d83b752dcf9f2a7ddd51b",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 4,
+        "month": 4,
+        "precision": "DAY",
+        "year": 2025
+       },
+       "id": "21b4cDNse2AMpj94ykfuON",
+       "label": "deadAir",
+       "name": "Revengeseekerz",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "tracks": {
+        "totalCount": 12
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:21b4cDNse2AMpj94ykfuON"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "2025 Jane Remover under exclusive license to deadAir",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0256818098087e597b8b8095b4",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485156818098087e597b8b8095b4",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27356818098087e597b8b8095b4",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 5,
+        "month": 12,
+        "precision": "DAY",
+        "year": 2025
+       },
+       "id": "2XeflvA0dNvjpX0vxukgiv",
+       "label": "Jane Remover under exclusive license to deadAir",
+       "name": "♡",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "tracks": {
+        "totalCount": 6
+       },
+       "type": "EP",
+       "uri": "spotify:album:2XeflvA0dNvjpX0vxukgiv"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2026 deadAir",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2026 deadAir",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0225920ac69f3ad8a4b6065167",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485125920ac69f3ad8a4b6065167",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27325920ac69f3ad8a4b6065167",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 23,
+        "month": 9,
+        "precision": "DAY",
+        "year": 2026
+       },
+       "id": "3xI4q1yRS4Vr1wMkQxlQjj",
+       "label": "deadAir",
+       "name": "Beauty Sleep",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "tracks": {
+        "totalCount": 1
+       },
+       "type": "SINGLE",
+       "uri": "spotify:album:3xI4q1yRS4Vr1wMkQxlQjj"
+      }
+     ],
+     "totalCount": 17
+    },
+    "singles": {
+     "items": [
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2026 deadAir",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2026 deadAir",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e0225920ac69f3ad8a4b6065167",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d0000485125920ac69f3ad8a4b6065167",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b27325920ac69f3ad8a4b6065167",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 23,
+           "month": 9,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "3xI4q1yRS4Vr1wMkQxlQjj",
+          "label": "deadAir",
+          "name": "Beauty Sleep",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "tracks": {
+           "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:3xI4q1yRS4Vr1wMkQxlQjj"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2026 Atlantic Recording Corporation.",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2026 Atlantic Recording Corporation.",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e023fef2e114942130c338a1feb",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048513fef2e114942130c338a1feb",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2733fef2e114942130c338a1feb",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 4,
+           "month": 6,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "60ckaaEodEQbB84qAHiUmI",
+          "label": "Atlantic Records",
+          "name": "suave (feat. Jane Remover)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "tracks": {
+           "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:60ckaaEodEQbB84qAHiUmI"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "2026 Jane Remover, under exclusive license to deadAir",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e025152a6138098d3866856c8d6",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048515152a6138098d3866856c8d6",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2735152a6138098d3866856c8d6",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 22,
+           "month": 4,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "75NdgsYSy03OeRKbRRVmPb",
+          "label": "Jane Remover, under exclusive license to deadAir",
+          "name": "Music Baby (leroy Remix)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "tracks": {
+           "totalCount": 2
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:75NdgsYSy03OeRKbRRVmPb"
+         }
+        ]
+       }
+      }
+     ],
+     "totalCount": 13
+    },
+    "topTracks": {
+     "items": [
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0225920ac69f3ad8a4b6065167"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000485125920ac69f3ad8a4b6065167"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27325920ac69f3ad8a4b6065167"
+           }
+          ]
+         },
+         "uri": "spotify:album:3xI4q1yRS4Vr1wMkQxlQjj"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Jane Remover"
+           },
+           "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 1
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 222967
+        },
+        "id": "1RrEB90qVYRsVE1DQsqwuJ",
+        "name": "Beauty Sleep",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "3227338",
+        "uri": "spotify:track:1RrEB90qVYRsVE1DQsqwuJ"
+       },
+       "uid": "abd2dc01d742f486c10f"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab0d83b752dcf9f2a7ddd51b"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851ab0d83b752dcf9f2a7ddd51b"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b"
+           }
+          ]
+         },
+         "uri": "spotify:album:21b4cDNse2AMpj94ykfuON"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Jane Remover"
+           },
+           "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 0
+         }
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 230526
+        },
+        "id": "1XD4K4CGAKTIBmFpvuaFru",
+        "name": "Dancing with your eyes closed",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "24208579",
+        "uri": "spotify:track:1XD4K4CGAKTIBmFpvuaFru"
+       },
+       "uid": "eedb1a36715b54165b2b"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0256818098087e597b8b8095b4"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000485156818098087e597b8b8095b4"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27356818098087e597b8b8095b4"
+           }
+          ]
+         },
+         "uri": "spotify:album:2XeflvA0dNvjpX0vxukgiv"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Jane Remover"
+           },
+           "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 0
+         }
+        },
+        "contentRating": {
+         "label": "EXPLICIT"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 273285
+        },
+        "id": "5BUTPG0Csnl1fF5RFg5lUH",
+        "name": "How to Teleport",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "8420179",
+        "uri": "spotify:track:5BUTPG0Csnl1fF5RFg5lUH"
+       },
+       "uid": "1561f423f7327931462c"
+      }
+     ]
+    }
+   },
+   "headerImage": {
+    "data": {
+     "__typename": "ImageV2",
+     "sources": [
+      {
+       "maxHeight": 640,
+       "maxWidth": 1494,
+       "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600000194e9ac1f62b677497779ae5c89"
+      },
+      {
+       "maxHeight": 1080,
+       "maxWidth": 1920,
+       "url": "https://i2o.scdn.co/image/ab67618600001667e9ac1f62b677497779ae5c89"
+      },
+      {
+       "maxHeight": 1080,
+       "maxWidth": 1920,
+       "url": "https://i2o.scdn.co/image/ab67618600001667e9ac1f62b677497779ae5c89"
+      },
+      {
+       "maxHeight": 641,
+       "maxWidth": 1495,
+       "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600009d80e9ac1f62b677497779ae5c89"
+      },
+      {
+       "maxHeight": 1140,
+       "maxWidth": 2660,
+       "url": "https://image-cdn-fa.spotifycdn.com/image/ab6761860000eab1e9ac1f62b677497779ae5c89"
+      }
+     ]
+    }
+   },
+   "id": "2rLGlNI6htigNxx172qxLu",
+   "onPlatformReputationTrait": {
+    "verification": {
+     "aiPersona": null,
+     "isRegistered": true,
+     "isVerified": true
+    }
+   },
+   "preRelease": null,
+   "profile": {
+    "name": "Jane Remover",
+    "playlistsV2": {
+     "items": [],
+     "totalCount": 0
+    }
+   },
+   "relatedContent": {
+    "relatedArtists": {
+     "items": [
+      {
+       "id": "7HfUJxeVTgrvhk0eWHFzV7",
+       "profile": {
+        "name": "underscores"
+       },
+       "uri": "spotify:artist:7HfUJxeVTgrvhk0eWHFzV7",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebde8dfaf8e64fee65ef479e68",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178de8dfaf8e64fee65ef479e68",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174de8dfaf8e64fee65ef479e68",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "48wt14F9gzlkNDRdXyJTQz",
+       "profile": {
+        "name": "kmoe"
+       },
+       "uri": "spotify:artist:48wt14F9gzlkNDRdXyJTQz",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb7756d042b0379529314a217e",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f1787756d042b0379529314a217e",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab676161000051747756d042b0379529314a217e",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "6R1kfr0GIWnwxY4zW11Vag",
+       "profile": {
+        "name": "Frost Children"
+       },
+       "uri": "spotify:artist:6R1kfr0GIWnwxY4zW11Vag",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb51daae4f55980f7ff0ea8c30",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f17851daae4f55980f7ff0ea8c30",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab6761610000517451daae4f55980f7ff0ea8c30",
+           "width": 320
+          }
+         ]
+        }
+       }
+      }
+     ],
+     "totalCount": 40
+    }
+   },
+   "saved": true,
+   "uri": "spotify:artist:2rLGlNI6htigNxx172qxLu",
+   "visualIdentity": {
+    "wideFullBleedImage": {
+     "__typename": "VisualIdentityImage",
+     "extractedColorSet": {
+      "encoreBaseSetTextColor": {
+       "alpha": 255,
+       "blue": 119,
+       "green": 164,
+       "red": 255
+      },
+      "highContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 42,
+        "red": 149
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 0,
+        "red": 97
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 158,
+        "green": 191,
+        "red": 255
+       }
+      },
+      "higherContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 0,
+        "red": 101
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 41,
+        "green": 52,
+        "red": 147
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 96,
+        "green": 215,
+        "red": 30
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 158,
+        "green": 191,
+        "red": 255
+       }
+      },
+      "minContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 38,
+        "green": 111,
+        "red": 246
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 83,
+        "red": 217
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       }
+      }
+     }
+    }
+   },
+   "visuals": {
+    "avatarImage": {
+     "sources": [
+      {
+       "height": 640,
+       "url": "https://i.scdn.co/image/ab6761610000e5ebb3ba80684c90081ad8c0b7f2",
+       "width": 640
+      },
+      {
+       "height": 160,
+       "url": "https://i.scdn.co/image/ab6761610000f178b3ba80684c90081ad8c0b7f2",
+       "width": 160
+      },
+      {
+       "height": 320,
+       "url": "https://i.scdn.co/image/ab67616100005174b3ba80684c90081ad8c0b7f2",
+       "width": 320
+      }
+     ]
+    }
+   },
+   "watchFeedEntrypoint": null
+  }
+ }
+}

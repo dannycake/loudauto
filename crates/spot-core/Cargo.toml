@@ -1,0 +1,31 @@
+[package]
+name = "spot-core"
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+description = "Spotify library access through a librespot session (no playback)"
+
+[dependencies]
+librespot-core.workspace = true
+librespot-protocol.workspace = true
+librespot-oauth.workspace = true
+librespot-metadata.workspace = true
+protobuf-json-mapping.workspace = true
+async-trait.workspace = true
+oo7.workspace = true
+log.workspace = true
+protobuf.workspace = true
+thiserror.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+percent-encoding.workspace = true
+tokio.workspace = true
+reqwest.workspace = true
+regex.workspace = true
+rand.workspace = true
+
+[dev-dependencies]
+tokio = { workspace = true, features = ["test-util"] }
+tempfile.workspace = true
+wiremock.workspace = true
