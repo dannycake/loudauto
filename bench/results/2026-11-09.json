@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-09",
+  "machine": {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12600K",
+    "memory_gb": 63,
+    "kernel": "7.2.11-arch1-1",
+    "plasma": "plasmashell 6.8.2",
+    "pipewire": "Linked with libpipewire 1.6.10"
+  },
+  "track": "spotify:track:1aTr5R85WkBQFXJlROrOSV",
+  "versions": {
+    "LOUDAUTO": "d0f9afb (Soloist soloist 1.3.10.55)",
+    "Spotify (official)": "1:1.3.4.258.gc60b10b0946a"
+  },
+  "disk_mb": {
+    "LOUDAUTO": 108.606122,
+    "Spotify (official)": 405.086171
+  },
+  "runs": {
+    "LOUDAUTO": [
+      {
+        "startup_ms": 1139,
+        "idle_pss_mb": 181.150390625,
+        "processes": 4,
+        "threads": 43,
+        "idle_cpu": 0.8321617279825556,
+        "play_cpu": 1.88291789392489,
+        "play_pss_mb": 185.6025390625
+      },
+      {
+        "startup_ms": 371,
+        "idle_pss_mb": 180.2001953125,
+        "processes": 4,
+        "threads": 43,
+        "idle_cpu": 0.9651303207798982,
+        "play_cpu": 1.115085457349127,
+        "play_pss_mb": 187.91796875
+      },
+      {
+        "startup_ms": 178,
+        "idle_pss_mb": 170.1650390625,
+        "processes": 4,
+        "threads": 41,
+        "idle_cpu": 0.5313961614842784,
+        "play_cpu": 1.2498072658267227,
+        "play_pss_mb": 189.1396484375
+      },
+      {
+        "startup_ms": 720,
+        "idle_pss_mb": 162.9580078125,
+        "processes": 4,
+        "threads": 42,
+        "idle_cpu": 0.5993464899291946
+      },
+      {
+        "startup_ms": 89,
+        "idle_pss_mb": 180.4033203125,
+        "processes": 4,
+        "threads": 42,
+        "idle_cpu": 0.5991784370451775
+      }
+    ],
+    "Spotify (official)": [
+      {
+        "startup_ms": 1576,
+        "idle_pss_mb": 1083.7685546875,
+        "processes": 10,
+        "threads": 160,
+        "idle_cpu": 4.29458250956352,
+        "play_cpu": 3.213746464337404,
+        "play_pss_mb": 940.990234375
+      },
+      {
+        "startup_ms": 3982,
+        "idle_pss_mb": 1188.2734375,
+        "processes": 10,
+        "threads": 165,
+        "idle_cpu": 3.397508750323383,
+        "play_cpu": 2.831292172414913,
+        "play_pss_mb": 1089.73828125
+      },
+      {
+        "startup_ms": 936,
+        "idle_pss_mb": 1164.20703125,
+        "processes": 10,
+        "threads": 166,
+        "idle_cpu": 7.426818121979214,
+        "play_cpu": 29.602463993023683,
+        "play_pss_mb": 1011.955078125
+      },
+      {
+        "startup_ms": 2056,
+        "idle_pss_mb": 1157.55859375,
+        "processes": 10,
+        "threads": 166,
+        "idle_cpu": 3.199172917933558
+      },
+      {
+        "startup_ms": 1117,
+        "idle_pss_mb": 1217.89453125,
+        "processes": 10,
+        "threads": 169,
+        "idle_cpu": 11.45586805229746
+      }
+    ]
+  },
+  "median": {
+    "LOUDAUTO": {
+      "startup_ms": 371,
+      "idle_pss_mb": 180.2001953125,
+      "processes": 4,
+      "threads": 42,
+      "idle_cpu": 0.5993464899291946,
+      "play_cpu": 1.2498072658267227,
+      "play_pss_mb": 187.91796875
+    },
+    "Spotify (official)": {
+      "startup_ms": 1576,
+      "idle_pss_mb": 1164.20703125,
+      "processes": 10,
+      "threads": 166,
+      "idle_cpu": 4.29458250956352,
+      "play_cpu": 3.213746464337404,
+      "play_pss_mb": 1011.955078125
+    }
+  }
+}

@@ -39,6 +39,75 @@ and a command line.
 - **`loudauto-cli`** to browse your library from a terminal, like the playing song, and manage
   the keys and login.
 
+## Benchmark: LOUDAUTO vs Spotify's official app
+
+Both clients on the same desktop, playing the same song at the same (lossless) quality, measured
+the same way. These are medians of 5 runs per client, with the range across runs in brackets.
+
+| | LOUDAUTO | Spotify (official) | |
+|---|---:|---:|---|
+| **Launch to window on screen** | **0.37 s** <sub>(0.09–1.14)</sub> | 1.58 s <sub>(0.94–3.98)</sub> | 4.2× faster |
+| **Memory, idle** (PSS, all processes) | **180 MB** <sub>(163–181)</sub> | 1,164 MB <sub>(1,084–1,218)</sub> | 6.5× less |
+| **Memory, playing** | **188 MB** <sub>(186–189)</sub> | 1,012 MB <sub>(941–1,090)</sub> | 5.4× less |
+| **CPU, idle** with the window open | **0.6 %** <sub>(0.5–1.0)</sub> | 4.3 % <sub>(3.2–11.5)</sub> | 7.2× less |
+| **CPU, playing** with the window open | **1.2 %** <sub>(1.1–1.9)</sub> | 3.2 % <sub>(2.8–29.6)</sub> | 2.6× less |
+| **Processes / threads** | **4 / 42** | 10 / 166 | |
+| **Disk** (installed files) | **109 MB** | 405 MB | 3.7× less |
+
+CPU is a percentage of one core (the machine has 16 threads). LOUDAUTO's numbers always include
+everything it runs: the window, the engine and both of Soloist's processes. Its 109 MB on disk is
+72 MB of LOUDAUTO (window, engine, CLI) and 36 MB of Soloist.
+
+<details>
+<summary><b>How it was measured</b></summary>
+
+- **The machine:** Intel Core i5-12600K, 64 GB of RAM, Arch Linux (kernel 7.2.11), KDE Plasma
+  6.8.2 on Wayland, PipeWire 1.6.10. Measured on 2026-11-09.
+- **What against what:**
+  - LOUDAUTO at commit `d0f9afb` with Soloist 1.3.10.55 (built 2026-11-09), installed by
+    `scripts/install.sh`.
+  - Spotify's official Linux client 1.3.4.258, installed by `spotify-launcher` and run with the
+    flags its config adds. On this machine that means natively on Wayland, so both run as native
+    Wayland windows.
+  - Both are logged in to the same Premium account and set to lossless (Soloist's lossless
+    setting, and Spotify's top streaming quality). Caches were warm.
+- **The script:** [`bench/bench.py`](bench/bench.py) runs everything; the raw numbers are in
+  [`bench/results/2026-11-09.json`](bench/results/2026-11-09.json). It alternates the clients
+  run by run, so slow drift on the machine hits both the same. Each client gets a warm-up run that
+  isn't counted, then 5 counted runs. Each run:
+  1. **Close everything** the client runs.
+  2. **Start** the client the way a user would: Spotify's binary, or LOUDAUTO's window, which
+     starts its engine. **Startup** is the time from launch until KWin maps the client's window,
+     as logged by a small KWin script that timestamps every new window. It doesn't measure when
+     the content inside the window finishes loading.
+  3. **Wait 20 s, then take memory:** PSS (proportional set size: memory shared between
+     processes is split between them, so nothing is counted twice), summed over every process
+     whose executable belongs to the client. Spotify counts as everything under its install
+     folder; LOUDAUTO as `loudauto`, `loudautod` and `soloist`.
+  4. **Idle CPU:** the processes' user + system time over 30 s, with the window open and
+     nothing playing.
+  5. **Playing** (the first 3 counted runs): play *nine (feat. Lucy Bedroque)* by Egobreak,
+     prettifun and Lucy Bedroque, through MPRIS for Spotify and the engine's socket for
+     LOUDAUTO. Wait 10 s, then take CPU over 60 s and memory at the end.
+- **Nothing is heard.** A temporary PipeWire null sink is made the default output, and both
+  clients are pointed at it. Easy Effects is quit for the run, since it would move streams to its
+  own sink. The script checks that every new stream lands on the null sink, and stops at once if
+  one doesn't. Everything is put back afterwards: the default sink, Easy Effects, LOUDAUTO's
+  settings and the KWin script.
+- **One outlier:** one of Spotify's playing runs averaged 29.6 % CPU over its minute. The median
+  keeps it from skewing the table; the range shows it.
+- **Not measured:** GPU use, power, network traffic, and how long each client takes to fill its
+  window with content.
+
+Run it yourself (KDE Plasma on Wayland with PipeWire, both clients installed and logged in). It
+takes over your account's playback for about 20 minutes:
+
+```sh
+python3 bench/bench.py --track spotify:track:<id> --runs 5 --play-runs 3 --out bench/results/mine.json
+```
+
+</details>
+
 ## How it works
 
 ```text
